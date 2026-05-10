@@ -260,7 +260,7 @@
 	},
 	"booyah": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": true
 		},
 		"files": {
@@ -1170,16 +1170,16 @@
 		"files": {
 			"mods/renmi.pw.toml": {
 				"download": {
-					"hash": "c367585fc84985f8b1f0392c1e1e86263cb745e527b38343a7c05c9862d6b1b5b563aebf184c07806face5c6b70bedb5c381aa5b53e766f424643acec8fd5920",
+					"hash": "b4c86e2bc73694ffd94da5b3982362030ae25928dc9f2338cb7458f36adc8e75067600bed916a82855c5a0471567b2994d833595b521c42df0a10ec10a75a2e8",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/WUrSmxSJ/versions/TzvXrtSh/renmi-1.0.5-beta%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/WUrSmxSJ/versions/MKxSLgWp/renmi-1.0.6-beta%2B26.1.2.jar"
 				},
-				"filename": "renmi-1.0.5-beta+26.1.2.jar",
+				"filename": "renmi-1.0.6-beta+26.1.2.jar",
 				"name": "Ren'mi",
 				"side": "both"
 			}
 		},
-		"key": "4527be0b2975dd436592004f23f8eb4498600153f073fb28f1c7e8355ca64809"
+		"key": "e4898235e36c937b9864a9a6b0d2cbd8a67c5ca354b6b860a2f8b44be5dbb38a"
 	},
 	"scriboodle": {
 		"checks": {
@@ -1228,16 +1228,16 @@
 			},
 			"mods/slime-time.pw.toml": {
 				"download": {
-					"hash": "e4168600495d8a3350560199f1c237e34a411d2f0e506469e34cc06dffcd4b43ed86ea23d13c913ef137d8569532f85a1b2b4afaf375b87e438605112659c6b0",
+					"hash": "a076bbba96a77130261125211a7e8db7e5b7894c4de2f73bceeb75d9c8d9b54caa45cd51d5d682b21787e146ba2fbd627f034be476a4a4b265b082b122a852f3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/RRsJmoGM/versions/xvoiFVgF/slime-time-1.1.4%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/RRsJmoGM/versions/XefSahv5/slime-time-1.1.5%2B26.1.2.jar"
 				},
-				"filename": "slime-time-1.1.4+26.1.2.jar",
+				"filename": "slime-time-1.1.5+26.1.2.jar",
 				"name": "Slime Time",
 				"side": "both"
 			}
 		},
-		"key": "fc788d9f903ad02235f5ae946b4d61bee8361f58a91c3e761ec58768331b8ab1"
+		"key": "8d174525fd0c7e2a743b0140b95754fbece0af5ae32352bdf9e71eb22be8c490"
 	},
 	"starbond": {
 		"checks": {
