@@ -36,16 +36,16 @@
 		"files": {
 			"mods/advanced-classroom-furniture.pw.toml": {
 				"download": {
-					"hash": "7136c845938bec637022ae045ed4c5945bf3a5ebcd93499de50b5f86032592f5a6aa079887ac8e71205c23b42e2173c9ca10195ed093f04e3d535a56e2108de6",
+					"hash": "c3091229bf4bcd69b09ff07ebf802209b09c7132afae3ba30a895abd7e2c9fa7106febf791005346a2b50b7983b318f779a70dc9fc7406054f83fbb69c672e8c",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/2B2ITxoC/versions/SjGbYdfE/classroomfurniture-1.0.0.jar"
+					"url": "https://cdn.modrinth.com/data/2B2ITxoC/versions/oFulhkBm/classroomfurniture-1.0.1.jar"
 				},
-				"filename": "classroomfurniture-1.0.0.jar",
+				"filename": "classroomfurniture-1.0.1.jar",
 				"name": "Advanced Classroom Furniture",
 				"side": "both"
 			}
 		},
-		"key": "eefae8f52a1484be84ff15b52614c100dfccfb0e30b0022efb706c114361b0d6"
+		"key": "999f6614fcaced2e026494bf79d16b0198df997c12a9fee95bb9da81ab6030ea"
 	},
 	"arbitration": {
 		"checks": {
@@ -488,11 +488,11 @@
 		"files": {
 			"mods/etaerio-eaterie.pw.toml": {
 				"download": {
-					"hash": "d867926520423f1632168a7623460be1395b2c7a1e018c359036dc23ac884628f9696f75565a8345b06bf704d04d123963ff4553d02c6e2451af81be785d1ce0",
+					"hash": "e1f3604b3022c4ceadaf299044fd8d31d00421bc203769c5749442ccb0e01076b37bcb7c44aba60584b90d022d7c4225b8635488279bd5e7ae848e754b40c474",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Mz1FAA72/versions/uNSVT6WD/etaerio-eaterie-1.0.3.jar"
+					"url": "https://cdn.modrinth.com/data/Mz1FAA72/versions/AM1zhEA3/etaerio-eaterie-1.0.4.jar"
 				},
-				"filename": "etaerio-eaterie-1.0.3.jar",
+				"filename": "etaerio-eaterie-1.0.4.jar",
 				"name": "Etaerio Eaterie",
 				"side": "both"
 			},
@@ -507,7 +507,7 @@
 				"side": "both"
 			}
 		},
-		"key": "2eba48c84e3579c46509bd9e3db5ea5c79c3fa9f18454bc733c150ea48a36cf6"
+		"key": "c385c1dea96e385e685f603145d8273393f52c9fd0e6bf7bfae301f06a774b1e"
 	},
 	"flowers-galore": {
 		"checks": {
@@ -671,16 +671,16 @@
 		"files": {
 			"mods/kawaii.pw.toml": {
 				"download": {
-					"hash": "c430ceb9ee3390a9a0020a8648ff0a1f0930f27352fe382942764f4f501c957b260e2bcd712fdd643d924a8abedac8b886baf373d4446dca12d3a95be45cf16e",
+					"hash": "93323ba52b8d836ab512f7818f40b42a705c924a5ebfefa8fc42417386c92ec53a4d867a1b2f6ecd6f590c2f362d2fa16bd58a8356540435896fdd25fd8ce5de",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/J7GwounQ/versions/RGrqVVAB/kawaii4200-1.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/J7GwounQ/versions/wCFPKb6a/kawaii4200-1.2.0.jar"
 				},
-				"filename": "kawaii4200-1.1.2.jar",
+				"filename": "kawaii4200-1.2.0.jar",
 				"name": "Kawaii",
 				"side": "both"
 			}
 		},
-		"key": "1e685699e9cff963797c924a64cd55472f112bb20c8738e148a1abaf13dedb55"
+		"key": "26c77a5b40da1adb5c6d5b9da0d157714b235f79f510d3f0f493c6390552de84"
 	},
 	"kibss": {
 		"checks": {
@@ -959,16 +959,16 @@
 		"files": {
 			"mods/off-the-shelf.pw.toml": {
 				"download": {
-					"hash": "f9d28d365fc1f1a126c3e714ff62a95fab17b4a0d2331a3fc84765a814c7a2166fbec5a6eaf2f53102c074d5915f780335abbf4f3efc6a161c5fb39bec3e16e2",
+					"hash": "c549bb1f1501446cbfe63fb120fd2f6b1a5cd42576bb048e41af640ab5989b71d790ae91cf6ffee72b5c651265bfb6753bea32d295dd22b9be46c20be5c2a374",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ik7wleMZ/versions/Xl7kvcI3/offtheshelf-1.0.0-26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/ik7wleMZ/versions/mYAL1unc/offtheshelf-1.1.0-26.1.2.jar"
 				},
-				"filename": "offtheshelf-1.0.0-26.1.2.jar",
+				"filename": "offtheshelf-1.1.0-26.1.2.jar",
 				"name": "Off The Shelf",
 				"side": "both"
 			}
 		},
-		"key": "a717e354dbf4873ed67dcd886e426c5a723f4bb9d04a7f4d167103cbc049d7f6"
+		"key": "7869e57e9f4163ab640d4fbf7e88dd201fe7d139bbf22cba2b4c3c331cf76bcc"
 	},
 	"omikuji": {
 		"checks": {
