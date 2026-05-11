@@ -317,6 +317,10 @@ file = "mods/switchy.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/world-comment.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/worldedit-client.pw.toml"
 metafile = true
 
