@@ -5,9 +5,12 @@
 		"file": "monimi:music/the_89s_momentum",
 		"cover": "monimi:textures/cover/the_89s_momentum.png",
 		"length": 139,
-		"bpm": 128
+		"bpm": 128,
+		"streamUnsafe": true
 	},
 	"charter": "xSilphy",
+	"difficulty": "mania",
+	"rating": 10,
 	"scrollSpeed": 3.2,
 	"notes": [
 		[1875, 2, 117.1875],

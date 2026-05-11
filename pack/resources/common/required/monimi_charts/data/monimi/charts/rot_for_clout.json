@@ -5,9 +5,12 @@
 		"file": "monimi:music/rot_for_clout",
 		"cover": "monimi:textures/cover/rot_for_clout.png",
 		"length": 150,
-		"bpm": 172
+		"bpm": 172,
+		"explicit": true
 	},
 	"charter": "Blex",
+	"difficulty": "hard",
+	"rating": 5,
 	"scrollSpeed": 2.8,
 	"notes": [
 		[12558.1395348837, 2, 261.627906976744],

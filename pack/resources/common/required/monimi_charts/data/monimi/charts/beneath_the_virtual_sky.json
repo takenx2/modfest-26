@@ -8,6 +8,8 @@
 		"bpm": 90
 	},
 	"charter": "xSilphy",
+	"difficulty": "hard",
+	"rating": 3,
 	"scrollSpeed": 2.8,
 	"notes": [
 		[12250, 1, 0],
