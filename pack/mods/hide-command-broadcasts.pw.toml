@@ -1,0 +1,15 @@
+name = "hide-command-broadcasts"
+filename = "hide-command-broadcasts-0.1.0+26.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/afamiliarquiet/hide-command-broadcasts/releases/download/0.1.0/hide-command-broadcasts-0.1.0%2B26.1.jar"
+hash-format = "sha256"
+hash = "5609423cb6f9f87c53d0e382a5d05242d1a809156eaca3bea59b647cb0609d11"
+
+[update]
+[update.github]
+branch = "26.1"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "afamiliarquiet/hide-command-broadcasts"
+tag = "0.1.0"

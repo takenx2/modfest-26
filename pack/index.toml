@@ -189,6 +189,10 @@ file = "mods/glowcase.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/hide-command-broadcasts.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/hoofprint.pw.toml"
 metafile = true
 
