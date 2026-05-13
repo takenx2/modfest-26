@@ -21,7 +21,7 @@ def main():
 	test_mode = "test" in branch_name
 
 	for (url, ext) in [
-		[f"https://modfest.github.io/{repo_name}/pack.toml", "Test" if test_mode else ""],
+		[f"https://modfest.github.io/{repo_name}{"/test" if test_mode else ""}/pack.toml", "Test" if test_mode else ""],
 		[f"http://localhost:8080/pack.toml", "Debug"]
 	]:
 		print(f"Generating packs for {url}")

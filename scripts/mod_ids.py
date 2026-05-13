@@ -8,7 +8,7 @@ from urllib.request import urlretrieve
 from zipfile import ZipFile
 import tempfile
 
-from scripts import common
+import common
 
 
 def mod_ids():
