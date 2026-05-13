@@ -636,8 +636,8 @@
 	},
 	"japes": {
 		"checks": {
-			"claimed": false,
-			"tested": false
+			"claimed": true,
+			"tested": true
 		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
@@ -900,18 +900,28 @@
 			"tested": false
 		},
 		"files": {
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "6a576d8975b705937c035e9b290dd0138fedd4ab106a54e238f37e343916dec96dbaeeef66578d5293be83e10c9d7a5b8be3aef93ae384d2b8fe7e52cdee5df2",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/q87Wssd1/fabric-api-0.148.2%2B26.1.2.jar"
+				},
+				"filename": "fabric-api-0.148.2+26.1.2.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
 			"mods/meowdemic.pw.toml": {
 				"download": {
-					"hash": "984e031d86b6c93e8d76007b9b7d8051e2faf6e9fc2bfd35d146bf2261d3a8c93188ea9ba3f295e928230b98bee50ce41fb2821802225421c077e8b322c840f5",
+					"hash": "7b18e845a4852177a29c61197c5c48f3bc73f4729406a7dabf90353310323d665bbfb018a9a980640b0998d608ca4ca65bf293c7056931b412db452d9200c2c4",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/yV8oVp1F/versions/OKw79iee/meowdemic-1.0.2.jar"
+					"url": "https://cdn.modrinth.com/data/yV8oVp1F/versions/fU3ZcDaR/meowdemic-1.1.0.jar"
 				},
-				"filename": "meowdemic-1.0.2.jar",
+				"filename": "meowdemic-1.1.0.jar",
 				"name": "Meowdemic",
 				"side": "both"
 			}
 		},
-		"key": "c9a5017fe4c46627d714f8fb3cc8d96f27773f75653dc409881d883841764d0f"
+		"key": "16a211e92284644651948dd6e1e4ec089135e90b09f8f8c659fdb499003eadf1"
 	},
 	"monday-night-mining": {
 		"checks": {
@@ -940,16 +950,16 @@
 		"files": {
 			"mods/mugann.pw.toml": {
 				"download": {
-					"hash": "ebba1d055af1a172a72149ffa5ec78902cf3f0382111b2bc475b10ab4e1fff4529b7d5a3ea68b1bd5de1a0b444992d14fe644fa51158c9f8453fa1d83d7551ea",
+					"hash": "ae05f0b3b9eae132217457fd8a98f2bee1f82bc9148d0409a28a14ee9deefe081dbdd986ca9f8eecfcb56d1986411818f07922dd905671e79983293ff405515f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/9WfB1ZDW/versions/VVaDnHYO/mugann-1.0.13.jar"
+					"url": "https://cdn.modrinth.com/data/9WfB1ZDW/versions/1FnntEVk/mugann-1.0.14.jar"
 				},
-				"filename": "mugann-1.0.13.jar",
+				"filename": "mugann-1.0.14.jar",
 				"name": "Mugann",
 				"side": "both"
 			}
 		},
-		"key": "8db6bfba7540cb330bf3b97413d8ad79c50e82f06fd0664376b535d721c561db"
+		"key": "acac07b37ff1db821896bfcd38dd6a3dbf4a4a338d4b21a7e94f5980bb8bb3f6"
 	},
 	"off-the-shelf": {
 		"checks": {
@@ -972,8 +982,8 @@
 	},
 	"omikuji": {
 		"checks": {
-			"claimed": false,
-			"tested": false
+			"claimed": true,
+			"tested": true
 		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
@@ -1183,7 +1193,7 @@
 	},
 	"scriboodle": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": true
 		},
 		"files": {
