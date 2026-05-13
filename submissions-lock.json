@@ -209,11 +209,11 @@
 		"files": {
 			"mods/batoru.pw.toml": {
 				"download": {
-					"hash": "1206328bf7c9bae4487f097a02010cbbf312d3d729b24c457cfe52f7e8317562a961e5b72c91d901fd4ecf92ffdbcfc64d5f22991d10e598b972b7744bdaf9ce",
+					"hash": "dd72fb4d9871e17a499421151058dfd85a269b05e803092c67128ff457d1703bfe41ce12a8f922035573d62ad21f9e92a8496143008981e5746e070f0ccb76f3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/4hav09w1/versions/KiSrvylF/batoru-0.3.jar"
+					"url": "https://cdn.modrinth.com/data/4hav09w1/versions/HARLDKbm/batoru-0.4.jar"
 				},
-				"filename": "batoru-0.3.jar",
+				"filename": "batoru-0.4.jar",
 				"name": "Batoru Academia",
 				"side": "both"
 			},
@@ -228,7 +228,7 @@
 				"side": "both"
 			}
 		},
-		"key": "214afc385c1cbc05577aef7d3e9a072a1f09212e59c5c9a3c0d2e38b76622926"
+		"key": "819768587127cb446c153984d8e5e31d28b233176b247dd373c79893a0852a82"
 	},
 	"berry-fantastic": {
 		"checks": {
@@ -739,16 +739,16 @@
 			},
 			"mods/kurasu.pw.toml": {
 				"download": {
-					"hash": "e30975c01fb584ff32800cd8ca402343dd99be7674e977e6a1651d555e3e43d665173007c1a8909836d9db624d2366dc7ae85e32cd9b063553a9caf952734519",
+					"hash": "c4ea28ab09bb42754971e6d7d99171cde12307f041557f0259e165ede38d86a2b8a41fa811167815b02e2201a8df1a1f1d33169cd917781179786f90af901052",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ybFDR5BW/versions/EBf3V2uu/kurasu-0.1.4.jar"
+					"url": "https://cdn.modrinth.com/data/ybFDR5BW/versions/laoBMtzE/kurasu-0.1.6.jar"
 				},
-				"filename": "kurasu-0.1.4.jar",
+				"filename": "kurasu-0.1.6.jar",
 				"name": "Kurasu",
 				"side": "both"
 			}
 		},
-		"key": "ecc96dd2563e6090e49c06cc3bb43738a92b978acbbe606267e01ecf10f7931a"
+		"key": "90909644b47f40d8ea03691dc0a778e5b0bcd4806d47e7cc4e394613a60a9959"
 	},
 	"letters-of-effection": {
 		"checks": {
@@ -883,16 +883,16 @@
 		"files": {
 			"mods/menko.pw.toml": {
 				"download": {
-					"hash": "9787cc01712c9b1bcc85b584c1d23c52a9cdb4ca5f832240e21b415dfdcb632794fe2e5e6c519de705d43f6fe1d20cf3ba364defdcb34fcd94e4227adc429eac",
+					"hash": "b63a2ba0982fcdfb3d824e2361ed5e24a7302004df18c0bb7b2ffa29fd48ec2e33075322e3bba5d83c7f2292f9ab3b94b2bd9b2d8beb84fb4ea3b338cb27b49d",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/psvOhkSX/versions/8c0yBaf8/menko-0.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/psvOhkSX/versions/xqT80N9n/menko-0.1.3.jar"
 				},
-				"filename": "menko-0.1.2.jar",
+				"filename": "menko-0.1.3.jar",
 				"name": "Menko",
 				"side": "both"
 			}
 		},
-		"key": "99a1bae29155b528df27dc9184e1e33a8135845c84089c478eedfbbbd1a36718"
+		"key": "de7bccbac983a121c9409c511115e0bf59b8acddefb2feeab5c1cb423bfc5809"
 	},
 	"meowdemic": {
 		"checks": {
@@ -940,16 +940,16 @@
 		"files": {
 			"mods/mugann.pw.toml": {
 				"download": {
-					"hash": "fde23c98010177620f3535d95880ef3c7fe76d15218b0bda133db3030c85e51ac3f3d20e9e27879fc29bc9fe33a342246af27424bb97fd1fed34881ff5af3fd6",
+					"hash": "ebba1d055af1a172a72149ffa5ec78902cf3f0382111b2bc475b10ab4e1fff4529b7d5a3ea68b1bd5de1a0b444992d14fe644fa51158c9f8453fa1d83d7551ea",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/9WfB1ZDW/versions/jWXo07b9/mugann-1.0.12.jar"
+					"url": "https://cdn.modrinth.com/data/9WfB1ZDW/versions/VVaDnHYO/mugann-1.0.13.jar"
 				},
-				"filename": "mugann-1.0.12.jar",
+				"filename": "mugann-1.0.13.jar",
 				"name": "Mugann",
 				"side": "both"
 			}
 		},
-		"key": "ac22acbd33a431a193395bb54df04e8568e4dc2370105aaf02641ce6963acd82"
+		"key": "8db6bfba7540cb330bf3b97413d8ad79c50e82f06fd0664376b535d721c561db"
 	},
 	"off-the-shelf": {
 		"checks": {
