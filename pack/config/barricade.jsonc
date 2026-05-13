@@ -3,19 +3,23 @@
 	// If all invisible blocks are visible to you, not accounting the item you are holding.
 	// The player must be in creative to see barriers.
 	"everything_visible": true,
+	// Default Value: false
+	// Whether invisible blocks should be invisible in survival.
+	// WARNING: This will cause flickering when changing game modes!
+	"disable_in_survival": false,
 	// Which operator blocks are visible to you, not accounting the item you are holding.
 	// Accepts a list of mixed block ids or operator blocks tags found within assets/<namespace>/barricade/operator_blocks/<path>.json
 	// The player must be in creative to see barriers.
-	// 
+	//
 	// Default Value: [
-	// 
+	//
 	// ]
 	"visible_blocks": [
 
 	],
 	// How long (in seconds) barriers should take to fade when a barrier is equipped or unequipped.
 	// Set this to 0 to disable fading.
-	// 
+	//
 	// Default Value: 2.0
 	"barrier_fade_time": 2.0
 }
