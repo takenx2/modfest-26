@@ -1,0 +1,13 @@
+{
+  "entity": "minecraft:creeper",
+  "condition": {
+    "never": true
+  },
+  "dialogue": "creeper_crush:creeper/base/opening_2",
+  "options": {
+    "dialogue.creeper_crush.give_letter": "creeper_crush:creeper/base/letter_received",
+    "dialogue.creeper_crush.dont_give": "creeper_crush:creeper/base/no_letter"
+  },
+  "emotion": null,
+  "ends_dialogue": false
+}

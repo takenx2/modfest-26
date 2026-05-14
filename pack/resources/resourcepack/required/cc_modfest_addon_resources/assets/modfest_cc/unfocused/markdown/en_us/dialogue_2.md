@@ -1,0 +1,1 @@
+Yeah, dialogue can be added, including sprites, custom emotion overlays, commands to play sounds and such, it’s pretty powerful stuff!

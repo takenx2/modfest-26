@@ -1,0 +1,3 @@
+O-oh, haha! It actually says “Hissing Booth”…
+
+Y’know, because I’m a Creeper!

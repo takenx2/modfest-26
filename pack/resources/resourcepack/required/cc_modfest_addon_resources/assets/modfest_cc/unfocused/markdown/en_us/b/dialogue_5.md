@@ -1,0 +1,1 @@
+It’s pretty powerful, too! You can add new scenes, update player condition, add sprites, all kinds of stuff!

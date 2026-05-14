@@ -1,0 +1,1 @@
+{"entity":"minecraft:creeper","condition":{"never":true},"dialogue":"modfest_cc:b/dialogue_4","options":{"Continue":"modfest_cc:visit_again_2_data_packs_2"},"emotion":null,"change_condition":{},"ends_dialogue":false,"commands":[],"requires":null,"sprites":["modfest_cc:0"]}

@@ -1,0 +1,1 @@
+*The Koi looks at you wetly. You feel like you got a bonus shard.*

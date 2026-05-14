@@ -1,0 +1,1 @@
+{"entity":"hotdognalds:hotdog","condition":{"never":false},"dialogue":"modfest_cc:b/dialogue_12","options":{"Give letter":"modfest_cc:hotdog_letter","Leave":"modfest_cc:hotdog_sad"},"emotion":"creeper_crush:blush","change_condition":{},"ends_dialogue":false,"commands":[],"requires":null,"sprites":[]}

@@ -1,0 +1,1 @@
+{"entity":"minecraft:creeper","condition":{"never":true},"dialogue":"modfest_cc:dialogue_9","options":{},"emotion":"creeper_crush:blush","change_condition":{"mf:first":true},"ends_dialogue":true,"commands":[],"requires":null,"sprites":[]}

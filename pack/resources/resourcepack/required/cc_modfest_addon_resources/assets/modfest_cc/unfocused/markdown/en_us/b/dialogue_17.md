@@ -1,0 +1,1 @@
+*You walk away, and trip on a shard on the way out. Sure, why not?*

@@ -1,0 +1,1 @@
+{"entity":"minecraft:creeper","condition":{"never":true},"dialogue":"modfest_cc:b/dialogue_17","options":{},"emotion":null,"change_condition":{},"ends_dialogue":true,"commands":["playsound scattered_shards:collect_challenge player @s ~ ~ ~","shard award @s creeper_crush:modfest_bonus_2"],"requires":null,"sprites":[]}

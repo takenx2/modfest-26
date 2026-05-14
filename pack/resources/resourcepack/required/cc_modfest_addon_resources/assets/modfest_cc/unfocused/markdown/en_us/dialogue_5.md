@@ -1,0 +1,1 @@
+And be sure to check out the Ren’mi booth! Hear they’re doing some cool stuff on the VN front, too!

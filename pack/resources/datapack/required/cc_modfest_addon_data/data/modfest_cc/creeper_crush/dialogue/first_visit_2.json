@@ -1,0 +1,1 @@
+{"entity":"minecraft:creeper","condition":{"never":true},"dialogue":"modfest_cc:dialogue_1","options":{"Ask about data packs.":"modfest_cc:first_visit_2_data_packs","Continue":"modfest_cc:first_visit_3"},"emotion":null,"change_condition":{"mf:dialogue_hanging":true},"ends_dialogue":false,"commands":[],"requires":null,"sprites":[]}

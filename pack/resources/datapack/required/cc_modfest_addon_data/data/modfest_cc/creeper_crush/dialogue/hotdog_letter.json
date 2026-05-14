@@ -1,0 +1,1 @@
+{"entity":"hotdognalds:hotdog","condition":{"never":true},"dialogue":"modfest_cc:b/dialogue_13","options":{},"emotion":"creeper_crush:happy","change_condition":{},"ends_dialogue":true,"commands":["shard award @s creeper_crush:modfest_bonus_2","playsound scattered_shards:collect_challenge player @s ~ ~ ~"],"requires":null,"sprites":[]}

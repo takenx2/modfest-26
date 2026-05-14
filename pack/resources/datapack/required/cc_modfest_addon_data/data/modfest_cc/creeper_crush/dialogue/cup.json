@@ -1,0 +1,1 @@
+{"entity":"hotdognalds:cup","condition":{"never":false},"dialogue":"modfest_cc:b/dialogue_15","options":{"Give letter":"modfest_cc:cup_2","Walk away":"modfest_cc:cup_leave"},"emotion":null,"change_condition":{"cup":true},"ends_dialogue":false,"commands":[],"requires":null,"sprites":[]}

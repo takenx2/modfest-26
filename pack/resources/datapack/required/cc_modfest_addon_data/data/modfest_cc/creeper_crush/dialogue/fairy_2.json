@@ -1,0 +1,1 @@
+{"entity":"magical-allayship:fairy","condition":{"never":true},"dialogue":"modfest_cc:b/dialogue_8","options":{},"emotion":null,"change_condition":{},"ends_dialogue":true,"commands":["shard award @s creeper_crush:modfest_bonus_2","playsound scattered_shards:collect_challenge player @s ~ ~ ~"],"requires":null,"sprites":[]}

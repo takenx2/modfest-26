@@ -1,0 +1,1 @@
+*The Cup isn’t blushing. You don’t know why you felt the need to note that.*

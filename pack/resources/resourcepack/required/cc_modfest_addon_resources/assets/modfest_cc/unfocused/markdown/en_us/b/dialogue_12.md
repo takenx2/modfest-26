@@ -1,0 +1,1 @@
+*The Hot Dog is… blushing?*
