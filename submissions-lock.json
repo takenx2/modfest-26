@@ -30,7 +30,7 @@
 	},
 	"advanced-classroom-furniture": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": true
 		},
 		"files": {
@@ -362,11 +362,11 @@
 		"files": {
 			"mods/creeper-crush.pw.toml": {
 				"download": {
-					"hash": "e8bbd2d4efb7e235076fbf8f40e39ff97a803e4f7f8627ab13dbff99ad8c5e60d32e9499d053f5aac0ef680c6bb98470d5be6919e34d4c1dfb89b05d7d79f44f",
+					"hash": "469d618343b5f24b759e57a60d425a72e2a7dca3a607b71fc3993f8d990dacfaec67a8b6a7b47b95d641938a8ed2cf6f0949ae59d002b4099420daa04ec1e9a7",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/6EQ8D192/versions/tTJd29pF/creeper_crush-fabric-0.1.6-26.1.1-sgd.jar"
+					"url": "https://cdn.modrinth.com/data/6EQ8D192/versions/hMH3ewCi/creeper_crush-fabric-0.1.8-26.1.1-sgd.jar"
 				},
-				"filename": "creeper_crush-fabric-0.1.6-26.1.1-sgd.jar",
+				"filename": "creeper_crush-fabric-0.1.8-26.1.1-sgd.jar",
 				"name": "I Have a Crush on a Creeper?!?",
 				"side": "both"
 			},
@@ -391,7 +391,7 @@
 				"side": "both"
 			}
 		},
-		"key": "e297cef727201ed20dc972703ec5c889fffce1d72f585757e34f02baf9ec95dd"
+		"key": "edc038e8566f39e0054f14bc8a428d30e36d89ff84c70f02e4950cd3ff40edb0"
 	},
 	"dual-stance": {
 		"checks": {
@@ -912,16 +912,16 @@
 			},
 			"mods/meowdemic.pw.toml": {
 				"download": {
-					"hash": "7b18e845a4852177a29c61197c5c48f3bc73f4729406a7dabf90353310323d665bbfb018a9a980640b0998d608ca4ca65bf293c7056931b412db452d9200c2c4",
+					"hash": "92b54d6a59ef3fda7b0fdde6c1f37cd2f8edb7c8055108fe887d41f39804b3116c7dbf25ac5f773c7da53b8b3eed201575a1447becc886478ad8bd0ceb9b6fcc",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/yV8oVp1F/versions/fU3ZcDaR/meowdemic-1.1.0.jar"
+					"url": "https://cdn.modrinth.com/data/yV8oVp1F/versions/i06ktScT/meowdemic-1.1.3.jar"
 				},
-				"filename": "meowdemic-1.1.0.jar",
+				"filename": "meowdemic-1.1.3.jar",
 				"name": "Meowdemic",
 				"side": "both"
 			}
 		},
-		"key": "16a211e92284644651948dd6e1e4ec089135e90b09f8f8c659fdb499003eadf1"
+		"key": "b5f5c0bfa826aade570905a77ea92c6e095b0c009137993661dd9f9a54832f2c"
 	},
 	"monday-night-mining": {
 		"checks": {
@@ -1252,7 +1252,7 @@
 	"starbond": {
 		"checks": {
 			"claimed": true,
-			"tested": false
+			"tested": true
 		},
 		"files": {
 			"mods/cardinal-components-api.pw.toml": {
