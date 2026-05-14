@@ -1180,16 +1180,16 @@
 		"files": {
 			"mods/renmi.pw.toml": {
 				"download": {
-					"hash": "b4c86e2bc73694ffd94da5b3982362030ae25928dc9f2338cb7458f36adc8e75067600bed916a82855c5a0471567b2994d833595b521c42df0a10ec10a75a2e8",
+					"hash": "c00e0a2125821ae57de4d67302963e3a7e6ff6195c150ecf81b33e2e64ad29056c0c368cfa7b838f6cfc52408b4fa4aa1ee0714ca68350a1d22e7e8c5aab57d8",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/WUrSmxSJ/versions/MKxSLgWp/renmi-1.0.6-beta%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/WUrSmxSJ/versions/yH5nKNDL/renmi-1.0.7-beta%2B26.1.2.jar"
 				},
-				"filename": "renmi-1.0.6-beta+26.1.2.jar",
+				"filename": "renmi-1.0.7-beta+26.1.2.jar",
 				"name": "Ren'mi",
 				"side": "both"
 			}
 		},
-		"key": "e4898235e36c937b9864a9a6b0d2cbd8a67c5ca354b6b860a2f8b44be5dbb38a"
+		"key": "1093763d4461158c52703219023bbb5b198bcc8c5f68055855ac1522938c986b"
 	},
 	"scriboodle": {
 		"checks": {
