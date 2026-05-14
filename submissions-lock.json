@@ -7,26 +7,26 @@
 		"files": {
 			"mods/absurdly-amazing-alloys.pw.toml": {
 				"download": {
-					"hash": "1a95820d8f828e4df04761fbad9a98d9ab2e279e15ea0b2eb0a854263bd5fec34670a50d1dc1872e37eb4c9ba9c3a78122faaa2dd2678e68948a475f288a225a",
+					"hash": "fec83f52c523f7d9ed22d612c803ecf9c8d23b32010dcc9e3b9d6be5e993260e6c0f57e8326bbc8aa8a7e1862fb8fb17e055ca41b6d37b25b522664dcc645731",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/XzFtgXMa/versions/M4tvihD6/absurdly-amazing-alloys-0.1.3%2Bfabric-26.1.jar"
+					"url": "https://cdn.modrinth.com/data/XzFtgXMa/versions/dOgl2sFj/absurdly-amazing-alloys-0.1.4.1%2Bfabric-26.1.jar"
 				},
-				"filename": "absurdly-amazing-alloys-0.1.3+fabric-26.1.jar",
+				"filename": "absurdly-amazing-alloys-0.1.4.1+fabric-26.1.jar",
 				"name": "Absurdly Amazing Alloys",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "4e9d39150af43869f68b03e91c51618a0d0c34ec7bfd57b515a9031364d35e391985ca1e2349daaa8d6f8fc88e4b96cfa5793bb0f98932ce0b3683fe4a238ce4",
+					"hash": "6a576d8975b705937c035e9b290dd0138fedd4ab106a54e238f37e343916dec96dbaeeef66578d5293be83e10c9d7a5b8be3aef93ae384d2b8fe7e52cdee5df2",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/KAvhN1it/fabric-api-0.148.0%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/q87Wssd1/fabric-api-0.148.2%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.148.0+26.1.2.jar",
+				"filename": "fabric-api-0.148.2+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "5eee9db819ff0586481bfa626c50751a64f496f10a006cf6c821b1cfc26e5029"
+		"key": "441d5688ab71d331eea41161512a10f7f9bc0b396e09e1643ffea9b3672732b5"
 	},
 	"advanced-classroom-furniture": {
 		"checks": {
@@ -94,26 +94,26 @@
 		"files": {
 			"mods/archery-gimmicks.pw.toml": {
 				"download": {
-					"hash": "87dadaf8abfda2cda1b0871c771febc6dfe89a905bb9e733455c70dab859aaeb1607559c4ec33849ceea74a6ccdf8f02c9f23fd3fa74dae405b37eb79a73b8a2",
+					"hash": "3b6bfe7946b88dc2782c55acbf60346fdf4715c44942d4bf7986ea3a45c605d99cd115cefe99b3154a23338b084ee87a603c289069a4e20af50462f5190f67db",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/mhMyROQo/versions/WZo6lNOP/archery-gimmicks-1.0.1%2B26.1.jar"
+					"url": "https://cdn.modrinth.com/data/mhMyROQo/versions/TbKrms1O/archery-gimmicks-1.0.2%2B26.1.jar"
 				},
-				"filename": "archery-gimmicks-1.0.1+26.1.jar",
+				"filename": "archery-gimmicks-1.0.2+26.1.jar",
 				"name": "Archery Gimmicks",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "4e9d39150af43869f68b03e91c51618a0d0c34ec7bfd57b515a9031364d35e391985ca1e2349daaa8d6f8fc88e4b96cfa5793bb0f98932ce0b3683fe4a238ce4",
+					"hash": "6a576d8975b705937c035e9b290dd0138fedd4ab106a54e238f37e343916dec96dbaeeef66578d5293be83e10c9d7a5b8be3aef93ae384d2b8fe7e52cdee5df2",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/KAvhN1it/fabric-api-0.148.0%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/q87Wssd1/fabric-api-0.148.2%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.148.0+26.1.2.jar",
+				"filename": "fabric-api-0.148.2+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "8d1d94739365dec327179f01f92973b109c0246d43f7a961486de325467588f0"
+		"key": "3cab03ab866d8cd6fb3a1f92d0024dd2d0c6383cc4f92e339491f3340495f038"
 	},
 	"assorted-appetizers": {
 		"checks": {
@@ -1306,11 +1306,11 @@
 			},
 			"mods/street-art.pw.toml": {
 				"download": {
-					"hash": "7455b901b52454e48b39758ceddf29605dfb6f384170addf61fe60fc1426d96c0b542110e2778331d97f834f13fff45dbd204dd948cdd9a291c8edbce881cb69",
+					"hash": "00ea24e19fcf9f2401caff6bbe18b6b1598ad1d32f61e70db199a072cdb24a68934eea02586d485e001fabc8292f22e8f2817211c75d90e60a4b487bd840d6ad",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/n0uMUjJI/versions/Y3LLvD2M/street_art-1.0.8.jar"
+					"url": "https://cdn.modrinth.com/data/n0uMUjJI/versions/Z9TbNcdm/street_art-1.0.9.jar"
 				},
-				"filename": "street_art-1.0.8.jar",
+				"filename": "street_art-1.0.9.jar",
 				"name": "Street Art",
 				"side": "both"
 			},
@@ -1325,7 +1325,7 @@
 				"side": "both"
 			}
 		},
-		"key": "28a035fc0cc4dd802ace26fb7349e3b6e0334b9c375018de9189cb32666c7025"
+		"key": "58b3d41d61e7e9b975696cc18e463f1c4b62ec9b25bb58398085e8dc45daca25"
 	},
 	"syncope-synecdoche": {
 		"checks": {
