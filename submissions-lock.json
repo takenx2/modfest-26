@@ -623,16 +623,16 @@
 		"files": {
 			"mods/ikhemusek.pw.toml": {
 				"download": {
-					"hash": "f6388078c58cbfa829222ab8c85a6852348373f31c5b140ddd9ffa898f372dd332c51a954af67a38601f811bc2c82b051e74383b088f7b683ecbaa63aabde9a8",
+					"hash": "cda3d9d0da3c9eeb59fd4ae38d20bb65ea6bd0b22c8143ed5193fb117aca01c56c6d8b70d6d048cd4b0215674644384de9812d016dfc51866bd64530c3db30a5",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/IAkmvVSK/versions/tTkUhC8r/ikhemusek-1.0.1.jar"
+					"url": "https://cdn.modrinth.com/data/IAkmvVSK/versions/Dt5vIB5k/ikhemusek-1.0.3.jar"
 				},
-				"filename": "ikhemusek-1.0.1.jar",
+				"filename": "ikhemusek-1.0.3.jar",
 				"name": "Ikhemusek",
 				"side": "both"
 			}
 		},
-		"key": "fd32de2f6d5006d032e717731a8b7aa2a6ce086a2520a8762d26b88bd858d128"
+		"key": "88a07d7f0cb35b5fc69875f05fad5a5159564b60a3207644723a28bb5914f133"
 	},
 	"japes": {
 		"checks": {
@@ -897,7 +897,7 @@
 	"meowdemic": {
 		"checks": {
 			"claimed": false,
-			"tested": false
+			"tested": true
 		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
@@ -1078,8 +1078,8 @@
 	},
 	"potion-of-caring": {
 		"checks": {
-			"claimed": false,
-			"tested": false
+			"claimed": true,
+			"tested": true
 		},
 		"files": {
 			"mods/potion-of-caring.pw.toml": {
