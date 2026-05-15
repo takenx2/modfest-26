@@ -681,16 +681,16 @@
 		"files": {
 			"mods/kawaii.pw.toml": {
 				"download": {
-					"hash": "93323ba52b8d836ab512f7818f40b42a705c924a5ebfefa8fc42417386c92ec53a4d867a1b2f6ecd6f590c2f362d2fa16bd58a8356540435896fdd25fd8ce5de",
+					"hash": "259d51918732f064b337938dc0f52c77bfc5693fad7ed71a3fb573ea85fa740de1846fd1708a73475d66a646216094ca67025b29450c05097dfb6f56c73abf59",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/J7GwounQ/versions/wCFPKb6a/kawaii4200-1.2.0.jar"
+					"url": "https://cdn.modrinth.com/data/J7GwounQ/versions/cokPhjCi/kawaii-1.2.2.jar"
 				},
-				"filename": "kawaii4200-1.2.0.jar",
+				"filename": "kawaii-1.2.2.jar",
 				"name": "Kawaii",
 				"side": "both"
 			}
 		},
-		"key": "26c77a5b40da1adb5c6d5b9da0d157714b235f79f510d3f0f493c6390552de84"
+		"key": "9468be1bad36c40d101c1b41eb550368c423e56c0a7b450d2f6ee7c64b2f42c1"
 	},
 	"kibss": {
 		"checks": {
@@ -1180,16 +1180,16 @@
 		"files": {
 			"mods/renmi.pw.toml": {
 				"download": {
-					"hash": "c00e0a2125821ae57de4d67302963e3a7e6ff6195c150ecf81b33e2e64ad29056c0c368cfa7b838f6cfc52408b4fa4aa1ee0714ca68350a1d22e7e8c5aab57d8",
+					"hash": "830c5837f433bfc2d26fc2054c2674559efa4d4570e128095386bd59a8d292e51dbe54f0b67f241962848df364350b1252f53762fd4b0aca7e4f97e194b3d368",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/WUrSmxSJ/versions/yH5nKNDL/renmi-1.0.7-beta%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/WUrSmxSJ/versions/tATWLxoF/renmi-1.0.9-beta%2B26.1.2.jar"
 				},
-				"filename": "renmi-1.0.7-beta+26.1.2.jar",
+				"filename": "renmi-1.0.9-beta+26.1.2.jar",
 				"name": "Ren'mi",
 				"side": "both"
 			}
 		},
-		"key": "1093763d4461158c52703219023bbb5b198bcc8c5f68055855ac1522938c986b"
+		"key": "3b20522bb379ad8dc053ecc35f86b534ed217869c05e3b0c1398bbf980180f37"
 	},
 	"scriboodle": {
 		"checks": {
