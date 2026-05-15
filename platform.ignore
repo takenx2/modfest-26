@@ -2,11 +2,5 @@
 # Each line should contain a submission id. The script will warn you
 # if the id does not refer to a submission
 
-# lots of ticking entity crashes
-#batoru
-
-# chunkbanning people with paint
-#street-art
-
-# black screen on load
-#advanced-classroom-furniture
+# chunk load failure from fabric attachment - packetcontext is required, but it wasn't set up
+lockkey
