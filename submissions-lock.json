@@ -142,16 +142,16 @@
 		"files": {
 			"mods/astraglossa.pw.toml": {
 				"download": {
-					"hash": "844b625fa9356c80c7d2021b7da30cdd0c028eeef37a8637329a63ae0c9e16246bc7dc5cd3b9b298b2cc032c679c203cf17725de3d7719dc1dde838731a9a521",
+					"hash": "9928b884a46162c5f93a5df0aa4d51f268afa72d8d1ec381c333e5f4d54b594a38b2d316b922738ea646f519fee9b768c63d085d7a649f3f370dd32877a4fdfb",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/1yOi1X5j/versions/mly1WBMC/astraglossa-0.4.5%2Btrunk.jar"
+					"url": "https://cdn.modrinth.com/data/1yOi1X5j/versions/3LtMVwGx/astraglossa-0.4.6%2Btrunk.jar"
 				},
-				"filename": "astraglossa-0.4.5+trunk.jar",
+				"filename": "astraglossa-0.4.6+trunk.jar",
 				"name": "astraglossa",
 				"side": "both"
 			}
 		},
-		"key": "015b23436537731f61c35cabe50aa07f35864cbe4206053189a7e1b648fedca7"
+		"key": "f347dcc21cf35b93c2e99865ac69b23f7beae240e0c9720eadf3fa9bd62baa6a"
 	},
 	"attire-craft": {
 		"checks": {
@@ -810,8 +810,8 @@
 	},
 	"lockkey": {
 		"checks": {
-			"claimed": false,
-			"tested": false
+			"claimed": true,
+			"tested": true
 		},
 		"files": {
 			"mods/lockkey.pw.toml": {
@@ -1199,26 +1199,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "6a576d8975b705937c035e9b290dd0138fedd4ab106a54e238f37e343916dec96dbaeeef66578d5293be83e10c9d7a5b8be3aef93ae384d2b8fe7e52cdee5df2",
+					"hash": "c7589aa4deeaa6dbefc13247eb5e0d4e257c152ef039937f54d6ee28282d3c84ccc96483d9c3950286fed6e3dcc546709898c8a446ab143d1663bc7d49649c54",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/q87Wssd1/fabric-api-0.148.2%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Sy2Bq7Xc/fabric-api-0.149.0%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.148.2+26.1.2.jar",
+				"filename": "fabric-api-0.149.0+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/scriboodle.pw.toml": {
 				"download": {
-					"hash": "9ddc235b74e3726630919c82eb024bb2182e845d121a9d2e1bd0fef0c107c459bd51a72956792b659665155f9f659eba46e98c7c936a49f620a1e14b37c1e046",
+					"hash": "e028f70d6028ce19e34fa659e91fefbf36b198d9fdd7bfd4b6055b3c61000820d4635145c950cde6d87d5d683676b10ca7b5be93c1affce9ccc0cc13d9ca3c00",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/1KTbgBgQ/versions/3N2drgCO/scriboodle-0.2.6.jar"
+					"url": "https://cdn.modrinth.com/data/1KTbgBgQ/versions/mdP2aVfN/scriboodle-0.2.8.jar"
 				},
-				"filename": "scriboodle-0.2.6.jar",
+				"filename": "scriboodle-0.2.8.jar",
 				"name": "Scriboodle",
 				"side": "both"
 			}
 		},
-		"key": "6bf510521bc655782d58d6864ef8f14777177a6b6160296e9f21b278ce7480ab"
+		"key": "f1023fcb4b2c7ba37bf52f1b96a64831a696b3a81e196f2ad97f45a08f957825"
 	},
 	"slime-time": {
 		"checks": {
