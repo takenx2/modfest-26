@@ -1378,20 +1378,20 @@
 	"voidstain-hypoidol": {
 		"checks": {
 			"claimed": true,
-			"tested": false
+			"tested": true
 		},
 		"files": {
 			"mods/voidstain-hypoidol.pw.toml": {
 				"download": {
-					"hash": "1b4646e03ba376be8fb25b57cdaf6bb609fe65104a3e931de661dd6182c12b9d9deb431e2873d773c30653631d74ea843f39c2ce92bd922eb803a48bafb2a83d",
+					"hash": "2d844b8a9218769d777cf2acadf1f03e872c35894b9661059f78c34765c4ad1d51d31cf9d23d7955611bc54b9badbf9954c158d54fb4f1523d5dc3a2fc7a1cb5",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/xVavkZzR/versions/tFI38ttH/voidstain_hypoidol-0.1.1.jar"
+					"url": "https://cdn.modrinth.com/data/xVavkZzR/versions/nYvm6lTK/voidstain_hypoidol-0.1.1.1.jar"
 				},
-				"filename": "voidstain_hypoidol-0.1.1.jar",
+				"filename": "voidstain_hypoidol-0.1.1.1.jar",
 				"name": "Voidstain Hypoidol",
 				"side": "both"
 			}
 		},
-		"key": "e8399b8d8e7ebfe0074275321076ad63533cbaecac441939edad0b206b3d0d82"
+		"key": "9c0c60f73a832ee3e3fe7e730793011f82c65cb64cf260953fe94483b178ff2b"
 	}
 }
