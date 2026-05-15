@@ -1,0 +1,5 @@
+# Don't change this! Version used to track needed updates.
+version = 0
+show_full_mana_bar = false
+dynamically_adjust_to_armor_bar = false
+dynamically_adjust_to_air_bar = false
