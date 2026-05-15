@@ -314,26 +314,26 @@
 		"files": {
 			"mods/chalkboard.pw.toml": {
 				"download": {
-					"hash": "f4e4894a233b0b85941559dfa6d14f9daf488d3c0bf138611c409e21946cf721b63a1b8a092134a2eed36a56655a2d22278d2523d7539d964aef3028cd32511a",
+					"hash": "1b54c2dbdc44781211422bdd6f50c75d13e1b8ec3e2199606d7fa91b4dd088b7ae78eb4ba84572a826a23a450d35a76dc3585512e4283174f60fab92ed29cd13",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Azgc1ZEh/versions/4qLpPgqw/chalkboard-26.5.8.jar"
+					"url": "https://cdn.modrinth.com/data/Azgc1ZEh/versions/XbI0m8jx/chalkboard-26.5.15.jar"
 				},
-				"filename": "chalkboard-26.5.8.jar",
+				"filename": "chalkboard-26.5.15.jar",
 				"name": "Chalkboard",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "4e9d39150af43869f68b03e91c51618a0d0c34ec7bfd57b515a9031364d35e391985ca1e2349daaa8d6f8fc88e4b96cfa5793bb0f98932ce0b3683fe4a238ce4",
+					"hash": "c7589aa4deeaa6dbefc13247eb5e0d4e257c152ef039937f54d6ee28282d3c84ccc96483d9c3950286fed6e3dcc546709898c8a446ab143d1663bc7d49649c54",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/KAvhN1it/fabric-api-0.148.0%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Sy2Bq7Xc/fabric-api-0.149.0%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.148.0+26.1.2.jar",
+				"filename": "fabric-api-0.149.0+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "aa054f0b4f83d77d150e5502bff0888c6647eaca73ef7dd244c914d9fc26abce"
+		"key": "66803ef4a03548a1985e4a69a99b5880b5d4a80c1235ea3c23b4b0ee7d0868b4"
 	},
 	"combat-toggle": {
 		"checks": {
@@ -816,16 +816,16 @@
 		"files": {
 			"mods/lockkey.pw.toml": {
 				"download": {
-					"hash": "6d1238c70bf75e5c85e06bae67674352e3454cff78ac050cabdb8088db48728aadb570d90d19c54c6ec5af37a9af61b31ade2b7e8e7dd9aca246b68a85b4356a",
+					"hash": "e6ff2384db1040e61d8dd947e5ec8fff09f6bdafa757d3a7d93943aba98443627663c5cfc6739c48384c3e96e824fcb83f230f346362311ff37393d602f09391",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/8Cx7nAtb/versions/94e1gLHd/lockkey-0.0.1.jar"
+					"url": "https://cdn.modrinth.com/data/8Cx7nAtb/versions/P14D94iJ/lockkey-0.1.0.jar"
 				},
-				"filename": "lockkey-0.0.1.jar",
+				"filename": "lockkey-0.1.0.jar",
 				"name": "Lock And Key",
 				"side": "both"
 			}
 		},
-		"key": "8df4bdd9f4fa007dc2c4a9876f35e2d5b45325f18d796cd095393f748edc2539"
+		"key": "91c2f8b1c2529d0f0488f1e00d8247b59b1f1623cd7c90bf1cc5fe30d57abb50"
 	},
 	"lovely-bites": {
 		"checks": {
@@ -854,26 +854,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "4e9d39150af43869f68b03e91c51618a0d0c34ec7bfd57b515a9031364d35e391985ca1e2349daaa8d6f8fc88e4b96cfa5793bb0f98932ce0b3683fe4a238ce4",
+					"hash": "c7589aa4deeaa6dbefc13247eb5e0d4e257c152ef039937f54d6ee28282d3c84ccc96483d9c3950286fed6e3dcc546709898c8a446ab143d1663bc7d49649c54",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/KAvhN1it/fabric-api-0.148.0%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Sy2Bq7Xc/fabric-api-0.149.0%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.148.0+26.1.2.jar",
+				"filename": "fabric-api-0.149.0+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/magical-allayship.pw.toml": {
 				"download": {
-					"hash": "9f1ce6ea1121b85b88334f779228dc3e4376aa96ae51e135c1ec3ccffcf90524ac21f130731dd55d690ef3d9ea5db5d88266c88160769b93cba665c7e6c4e3fa",
+					"hash": "b7f38a7b6047521862cea371bef2da01fc60780f655ccb8670d61b0d57bc1f394215b79514a000924828d8b259d84ae3c1dc656caa9eb6d15474882661b10fac",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/n49unES0/versions/EvkyBSBd/magical-allayship-1.0.0.jar"
+					"url": "https://cdn.modrinth.com/data/n49unES0/versions/8QKeu4ZR/magical-allayship-1.0.1.jar"
 				},
-				"filename": "magical-allayship-1.0.0.jar",
+				"filename": "magical-allayship-1.0.1.jar",
 				"name": "Magical Allayship",
 				"side": "both"
 			}
 		},
-		"key": "969fa1215bbc018af45fba7b4f07dc3cceae951ff4245d5a4739543eed4e2ef3"
+		"key": "04bc7fb56323d26ac0acd4bb5a062de440ab73ed83ab233f11cf12710de44d7c"
 	},
 	"menko": {
 		"checks": {
@@ -1383,15 +1383,15 @@
 		"files": {
 			"mods/voidstain-hypoidol.pw.toml": {
 				"download": {
-					"hash": "03ec1b4b379d4617494db724858a15682f1b7ec869cc0f9b99acde6467833f2f61cd818efe57b5a9da0cbd9b265db6a974b65a7adb5cae796e4fad14a4129e96",
+					"hash": "1b4646e03ba376be8fb25b57cdaf6bb609fe65104a3e931de661dd6182c12b9d9deb431e2873d773c30653631d74ea843f39c2ce92bd922eb803a48bafb2a83d",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/xVavkZzR/versions/BBhePFtj/voidstain_hypoidol-0.1.0.jar"
+					"url": "https://cdn.modrinth.com/data/xVavkZzR/versions/tFI38ttH/voidstain_hypoidol-0.1.1.jar"
 				},
-				"filename": "voidstain_hypoidol-0.1.0.jar",
+				"filename": "voidstain_hypoidol-0.1.1.jar",
 				"name": "Voidstain Hypoidol",
 				"side": "both"
 			}
 		},
-		"key": "0747a4b2443a7e26b5e013f42533e76780d61fc5f661c74d692e22154ae7368a"
+		"key": "e8399b8d8e7ebfe0074275321076ad63533cbaecac441939edad0b206b3d0d82"
 	}
 }
