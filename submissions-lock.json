@@ -931,16 +931,16 @@
 		"files": {
 			"mods/monday-night-mining.pw.toml": {
 				"download": {
-					"hash": "09bbb5096cd872e9a141c250149229cd2848766932ba1bdcaf5997ebaabdd9785abe292537ccafb835a2d65871a92e3e0fc94cefebe3ea3c5d6a14915c4fd67a",
+					"hash": "301ea180ba033f167ac53e4c47d5831733086b1ac325abbab858d0d33db67788f52109afdea830f6f217bb1e40669527118b2cec19362f422ec15eff0b1ea850",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/GZIAhmWQ/versions/qW45LGra/monimi-1.1.0%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/GZIAhmWQ/versions/563YcWT6/monimi-1.1.1%2B26.1.2.jar"
 				},
-				"filename": "monimi-1.1.0+26.1.2.jar",
+				"filename": "monimi-1.1.1+26.1.2.jar",
 				"name": "Monday Night Minin'",
 				"side": "both"
 			}
 		},
-		"key": "b30f46737f3ee8a8175fbf4f2dfa872d8b348f3dba22b0e043a042ab3fbd51db"
+		"key": "a04d2d907e225a27c44155e8dca665a35f1628394ce4952ccb318d3c0a0bc1d3"
 	},
 	"mugann": {
 		"checks": {
@@ -1103,26 +1103,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "4e9d39150af43869f68b03e91c51618a0d0c34ec7bfd57b515a9031364d35e391985ca1e2349daaa8d6f8fc88e4b96cfa5793bb0f98932ce0b3683fe4a238ce4",
+					"hash": "c7589aa4deeaa6dbefc13247eb5e0d4e257c152ef039937f54d6ee28282d3c84ccc96483d9c3950286fed6e3dcc546709898c8a446ab143d1663bc7d49649c54",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/KAvhN1it/fabric-api-0.148.0%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Sy2Bq7Xc/fabric-api-0.149.0%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.148.0+26.1.2.jar",
+				"filename": "fabric-api-0.149.0+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/productive-cherry-trees.pw.toml": {
 				"download": {
-					"hash": "352b315bdd8e338315c9e153501c10aab242f70ee49cba43741435f1f80516a422303325ba1b2e79d8adba74f5e2276dc54ecd416e545a98b4a1b8a4d7935528",
+					"hash": "e7660cd8d97b927dc6847ac9d8b0223d95a3db9d2aa51584b18c003930b0f9a3339ba2a1e6164bdfcd97b130bff04eda3f58380317c02ec9ec491c01ebc69754",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/rPggdI3G/versions/64S8FYh8/productive-cherry-trees-0.3.0-alpha%2Bfabric-26.1.jar"
+					"url": "https://cdn.modrinth.com/data/rPggdI3G/versions/S3hUnrMS/productive-cherry-trees-0.3.1-alpha%2Bfabric-26.1.jar"
 				},
-				"filename": "productive-cherry-trees-0.3.0-alpha+fabric-26.1.jar",
+				"filename": "productive-cherry-trees-0.3.1-alpha+fabric-26.1.jar",
 				"name": "Productive Cherry Trees",
 				"side": "both"
 			}
 		},
-		"key": "00e65ff31e2b9b55e1e84a7ab53c6eab7bfd90c691fb0694ff3b2fd3f6017f2b"
+		"key": "57186ede26eddf2995d872b320eb3f18ce783bddbeab33bcd5efd59fffe890ca"
 	},
 	"psithurism": {
 		"checks": {
@@ -1156,7 +1156,7 @@
 	"reliable-gliders": {
 		"checks": {
 			"claimed": false,
-			"tested": false
+			"tested": true
 		},
 		"files": {
 			"mods/reliable-gliders.pw.toml": {
