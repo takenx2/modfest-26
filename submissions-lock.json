@@ -877,8 +877,8 @@
 	},
 	"menko": {
 		"checks": {
-			"claimed": false,
-			"tested": false
+			"claimed": true,
+			"tested": true
 		},
 		"files": {
 			"mods/menko.pw.toml": {
