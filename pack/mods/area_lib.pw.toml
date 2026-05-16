@@ -1,13 +1,13 @@
 name = "Area Lib"
-filename = "area_lib-0.8.1+26.1.jar"
+filename = "area_lib-0.8.3+26.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IBuXDbma/versions/A7Bmkh9T/area_lib-0.8.1%2B26.1.jar"
+url = "https://cdn.modrinth.com/data/IBuXDbma/versions/6tpXQ8BQ/area_lib-0.8.3%2B26.1.jar"
 hash-format = "sha512"
-hash = "79984607a6dd5830f91ea9414efdc7c63c49424f3d3fe9b200bb1fe26d7f3f24ce0a4b09145ffc41fa92324097a9117375a62d3c461d6b31971ef97ba6e5c796"
+hash = "4ceb46d089859bdf08291147ed6d3092ffbc7459cae5486b2e6705b5a3fb1ffd05a3522efb5abe436fc09912027643d4d5639e0203d3ff0ac8dd34a062a45ef0"
 
 [update]
 [update.modrinth]
 mod-id = "IBuXDbma"
-version = "A7Bmkh9T"
+version = "6tpXQ8BQ"

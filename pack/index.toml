@@ -7,6 +7,9 @@ file = ".pteroignore"
 file = "config/ballotbox.toml"
 
 [[files]]
+file = "config/barricade.jsonc"
+
+[[files]]
 file = "config/bobby-block-entity-allowlist.conf"
 
 [[files]]
@@ -50,6 +53,9 @@ file = "config/item-descriptions.json"
 
 [[files]]
 file = "config/item_descriptions.toml"
+
+[[files]]
+file = "config/manaattributes/client.toml"
 
 [[files]]
 file = "config/meret.toml"
@@ -138,6 +144,9 @@ file = "mods/barricade.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bento_util_fix-1.0.0.jar"
+
+[[files]]
 file = "mods/better-log4j-config.pw.toml"
 metafile = true
 
@@ -179,6 +188,9 @@ metafile = true
 [[files]]
 file = "mods/fabrictailor.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/fireblanket-0.9.2+fabric-26.1.jar"
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
@@ -600,6 +612,150 @@ file = "resources/common/required/mf_shards/data/scattered_shards/shard_type/typ
 file = "resources/common/required/mf_shards/pack.mcmeta"
 
 [[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/sounds.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/beneath_the_virtual_sky.ogg"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/rot_for_clout.ogg"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/slasher.ogg"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/the_89s_momentum.ogg"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/textures/cover/beneath_the_virtual_sky.png"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/textures/cover/rot_for_clout.png"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/textures/cover/slasher.png"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/textures/cover/the_89s_momentum.png"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi/charts/beneath_the_virtual_sky.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi/charts/rot_for_clout.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi/charts/slasher.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi/charts/the_89s_momentum.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/pack.mcmeta"
+
+[[files]]
+file = "resources/common/required/monimi_charts/pack.png"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/creeper_crush/creeper_crush/dialogue/creeper/base/hello.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/creeper_crush/creeper_crush/dialogue/creeper/base/hello_2.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/creeper_crush/creeper_crush/dialogue/creeper/base/opening_1.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/creeper_crush/creeper_crush/dialogue/creeper/base/opening_2.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/cup.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/cup_2.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/cup_leave.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/fairy.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/fairy_2.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/first_visit.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/first_visit_2.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/first_visit_2_data_packs.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/first_visit_2_data_packs_2.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/first_visit_3.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/first_visit_4.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/first_visit_5.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/first_visit_6.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/first_visit_7.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/first_visit_8.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/hotdog.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/hotdog_letter.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/hotdog_sad.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/koi.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/koi_2.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/player.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/visit_again.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/visit_again_2.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/visit_again_2_data_packs.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/visit_again_2_data_packs_2.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/visit_again_2_kissing_booth.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/visit_again_2_kissing_booth_2.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/data/modfest_cc/creeper_crush/dialogue/visit_again_3.json"
+
+[[files]]
+file = "resources/datapack/required/cc_modfest_addon_data/pack.mcmeta"
+
+[[files]]
 file = "resources/datapack/required/free_build/data/free_build/default_components/free_buildables.json"
 
 [[files]]
@@ -639,7 +795,112 @@ file = "resources/datapack/required/mf_fireblanket/data/fireblanket/tags/item/it
 file = "resources/datapack/required/mf_fireblanket/pack.mcmeta"
 
 [[files]]
+file = "resources/resourcepack/required/Osmium-Sans-1.0-custom.zip"
+
+[[files]]
+file = "resources/resourcepack/required/Shantell-Sans.zip"
+
+[[files]]
 file = "resources/resourcepack/required/Unsanded-1.1.1-custom.zip"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/textures/gui/sprites/editor_screenshot.png"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/textures/gui/sprites/lulu_neutral.png"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/textures/gui/sprites/lulu_neutral_darkened.png"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/b/dialogue_0.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/b/dialogue_1.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/b/dialogue_10.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/b/dialogue_11.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/b/dialogue_12.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/b/dialogue_13.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/b/dialogue_14.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/b/dialogue_15.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/b/dialogue_16.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/b/dialogue_17.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/b/dialogue_2.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/b/dialogue_3.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/b/dialogue_4.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/b/dialogue_5.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/b/dialogue_6.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/b/dialogue_7.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/b/dialogue_8.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/b/dialogue_9.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/dialogue_0.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/dialogue_1.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/dialogue_2.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/dialogue_3.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/dialogue_4.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/dialogue_5.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/dialogue_6.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/dialogue_7.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/dialogue_8.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/assets/modfest_cc/unfocused/markdown/en_us/dialogue_9.md"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/modfest_addon_resources.zip"
+
+[[files]]
+file = "resources/resourcepack/required/cc_modfest_addon_resources/pack.mcmeta"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/ballotbox/textures/gui/sprites/emblem.png"
@@ -739,6 +1000,9 @@ file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/b
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/demi_heart.png"
+
+[[files]]
+file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/devious.png"
 
 [[files]]
 file = "resources/resourcepack/required/mf_emoji/assets/modfest/textures/emoji/femboy_heart.png"
