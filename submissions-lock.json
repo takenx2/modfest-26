@@ -276,16 +276,26 @@
 		"files": {
 			"mods/booyah.pw.toml": {
 				"download": {
-					"hash": "2a8449d50cd9b3f41a97365d9607108f77f36ecb421fa7a07d962cfd93237f91d640bc42b57589c3ea79ffe84b6285b8f96931a3fb1a4a76cab0f817f7db4834",
+					"hash": "aba31ea9c775268b735cede73f335874330d9d09853eacb775625ecbe1b9a7d8f6f6d01d5110ba34c1e8d1d03dc493c77e2ccc8ed07be0f084220b421c3ba6a1",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/aKgA3BHj/versions/98rpAxVt/booyah-1.0.0.jar"
+					"url": "https://cdn.modrinth.com/data/aKgA3BHj/versions/JdkEQ48y/booyah-1.0.1.jar"
 				},
-				"filename": "booyah-1.0.0.jar",
+				"filename": "booyah-1.0.1.jar",
 				"name": "Booyah!",
+				"side": "both"
+			},
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "c7589aa4deeaa6dbefc13247eb5e0d4e257c152ef039937f54d6ee28282d3c84ccc96483d9c3950286fed6e3dcc546709898c8a446ab143d1663bc7d49649c54",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Sy2Bq7Xc/fabric-api-0.149.0%2B26.1.2.jar"
+				},
+				"filename": "fabric-api-0.149.0+26.1.2.jar",
+				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "1e14668fa1e1a89ec63ddca63782e113bc9e12de25e3c8d376e5ab04e6aa5977"
+		"key": "39ac1f7c98cafe313f485a0da24e5c6d3d64d1fef93e45dfb47c9156131157b4"
 	},
 	"botanicmagic": {
 		"checks": {
@@ -525,18 +535,28 @@
 			"tested": true
 		},
 		"files": {
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "c7589aa4deeaa6dbefc13247eb5e0d4e257c152ef039937f54d6ee28282d3c84ccc96483d9c3950286fed6e3dcc546709898c8a446ab143d1663bc7d49649c54",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Sy2Bq7Xc/fabric-api-0.149.0%2B26.1.2.jar"
+				},
+				"filename": "fabric-api-0.149.0+26.1.2.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
 			"mods/flowers-galore.pw.toml": {
 				"download": {
-					"hash": "1aec56ae3e3933147006017215c597a3485875a1b19cc54e4e56cd851f57d17ed054006d1fef8a5821cdeec45e9f4ab5256732461940748b2d924f48dd7254dd",
+					"hash": "909e3dc7d3644d93a3f88a61e9382389a47b07e08dc5ab4f948490bc889957349eef25b6fe985cf241cd07d67a706efd23b79a9c5c260746de901e1b569dd55f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/5Tp9paFi/versions/A6YYscct/flowers-galore-1.1.3.jar"
+					"url": "https://cdn.modrinth.com/data/5Tp9paFi/versions/QXX0hOEC/flowers-galore-1.1.7.jar"
 				},
-				"filename": "flowers-galore-1.1.3.jar",
+				"filename": "flowers-galore-1.1.7.jar",
 				"name": "Flowers Galore!",
 				"side": "both"
 			}
 		},
-		"key": "41a92a1b96e3fbdd789499107031f76b3b77eebb8132b15133fd775158089f91"
+		"key": "17149c2c902a717b4c1037e3b8dcfd5596e3de13a9d4b2377954b1c8aa54f237"
 	},
 	"grappling-hooke": {
 		"checks": {
@@ -941,16 +961,16 @@
 		"files": {
 			"mods/monday-night-mining.pw.toml": {
 				"download": {
-					"hash": "301ea180ba033f167ac53e4c47d5831733086b1ac325abbab858d0d33db67788f52109afdea830f6f217bb1e40669527118b2cec19362f422ec15eff0b1ea850",
+					"hash": "d3b82e8328d6a071707d652e324d9e02af66511eba7c3cb00302372c56b8f17a05405f911ba984e0b6da902153ca33987429c635c724d4f07ffb3c459266dc4b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/GZIAhmWQ/versions/563YcWT6/monimi-1.1.1%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/GZIAhmWQ/versions/QmXsYlUQ/monimi-1.1.2%2B26.1.2.jar"
 				},
-				"filename": "monimi-1.1.1+26.1.2.jar",
+				"filename": "monimi-1.1.2+26.1.2.jar",
 				"name": "Monday Night Minin'",
 				"side": "both"
 			}
 		},
-		"key": "a04d2d907e225a27c44155e8dca665a35f1628394ce4952ccb318d3c0a0bc1d3"
+		"key": "6ce5aaff11958a8907d6cba9b56757b0f04a0a2645d9e6bf72cb954cd4d0389e"
 	},
 	"mugann": {
 		"checks": {
@@ -960,16 +980,16 @@
 		"files": {
 			"mods/mugann.pw.toml": {
 				"download": {
-					"hash": "ae05f0b3b9eae132217457fd8a98f2bee1f82bc9148d0409a28a14ee9deefe081dbdd986ca9f8eecfcb56d1986411818f07922dd905671e79983293ff405515f",
+					"hash": "874eb681f11435129bcfd6ef82aceeac3b27f76cdf33065f3f51a2e9022277fbf1e9a076f4b9afc64d26ac416dd2d4d213693a287025630ae73e7c6f3df3dcf6",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/9WfB1ZDW/versions/1FnntEVk/mugann-1.0.14.jar"
+					"url": "https://cdn.modrinth.com/data/9WfB1ZDW/versions/nEKpBjlv/mugann-1.0.15.jar"
 				},
-				"filename": "mugann-1.0.14.jar",
+				"filename": "mugann-1.0.15.jar",
 				"name": "Mugann",
 				"side": "both"
 			}
 		},
-		"key": "acac07b37ff1db821896bfcd38dd6a3dbf4a4a338d4b21a7e94f5980bb8bb3f6"
+		"key": "c133b9de312a514d238274b1abdd4c8f6aefeccbd169f7b0f086b503b59f8e61"
 	},
 	"off-the-shelf": {
 		"checks": {
