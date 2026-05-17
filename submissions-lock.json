@@ -498,26 +498,26 @@
 		"files": {
 			"mods/etaerio-eaterie.pw.toml": {
 				"download": {
-					"hash": "e1f3604b3022c4ceadaf299044fd8d31d00421bc203769c5749442ccb0e01076b37bcb7c44aba60584b90d022d7c4225b8635488279bd5e7ae848e754b40c474",
+					"hash": "4f6c7b1566ed3e047cbefdb1ace297b947fe5a874ea456f9e3514965035dfe0ba1509911f50b5e1f900fd6bf91043dd33344d4b4aa0916202ef1662ea0082351",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Mz1FAA72/versions/AM1zhEA3/etaerio-eaterie-1.0.4.jar"
+					"url": "https://cdn.modrinth.com/data/Mz1FAA72/versions/9t5B0t3U/etaerio-eaterie-1.0.5.jar"
 				},
-				"filename": "etaerio-eaterie-1.0.4.jar",
+				"filename": "etaerio-eaterie-1.0.5.jar",
 				"name": "Etaerio Eaterie",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "4e9d39150af43869f68b03e91c51618a0d0c34ec7bfd57b515a9031364d35e391985ca1e2349daaa8d6f8fc88e4b96cfa5793bb0f98932ce0b3683fe4a238ce4",
+					"hash": "c7589aa4deeaa6dbefc13247eb5e0d4e257c152ef039937f54d6ee28282d3c84ccc96483d9c3950286fed6e3dcc546709898c8a446ab143d1663bc7d49649c54",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/KAvhN1it/fabric-api-0.148.0%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Sy2Bq7Xc/fabric-api-0.149.0%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.148.0+26.1.2.jar",
+				"filename": "fabric-api-0.149.0+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "c385c1dea96e385e685f603145d8273393f52c9fd0e6bf7bfae301f06a774b1e"
+		"key": "f51c8aa3e92cdd26304649bf175898efe14d7ab01a3af299a5b0682c13042b39"
 	},
 	"flowers-galore": {
 		"checks": {
@@ -814,18 +814,28 @@
 			"tested": true
 		},
 		"files": {
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "c7589aa4deeaa6dbefc13247eb5e0d4e257c152ef039937f54d6ee28282d3c84ccc96483d9c3950286fed6e3dcc546709898c8a446ab143d1663bc7d49649c54",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Sy2Bq7Xc/fabric-api-0.149.0%2B26.1.2.jar"
+				},
+				"filename": "fabric-api-0.149.0+26.1.2.jar",
+				"name": "Fabric API",
+				"side": "both"
+			},
 			"mods/lockkey.pw.toml": {
 				"download": {
-					"hash": "9a6fb196f83f1f16aea20d5917ff8e4f7921a909459161c81e7cc7782af7893c71ededf34c88f3051f3ecbf53c7c6e7e336985f7630243ab75e4033639b90198",
+					"hash": "e9a4cd84dffdea429e11daf71451cc8eda3d46f10e4ab53f8857eb3f8241b66b0f4612620ef77e1b4168d02951cc136dcc3df85b8db07ac726a4cbbfa8bfc322",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/8Cx7nAtb/versions/SlIL6vb1/lockkey-0.1.1.jar"
+					"url": "https://cdn.modrinth.com/data/8Cx7nAtb/versions/iePeLKPE/lockkey-0.1.2.jar"
 				},
-				"filename": "lockkey-0.1.1.jar",
+				"filename": "lockkey-0.1.2.jar",
 				"name": "Lock And Key",
 				"side": "both"
 			}
 		},
-		"key": "e0dc596281363ff884def657c83f15b161a9d5103c3db368f2cc9c68a9ed3529"
+		"key": "69c73a82d603a413487f7c5c9b11ae4e21f9ba8e50d2fd7e2dbe8b0a531bdc91"
 	},
 	"lovely-bites": {
 		"checks": {
@@ -1155,7 +1165,7 @@
 	},
 	"reliable-gliders": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": true
 		},
 		"files": {
