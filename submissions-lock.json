@@ -961,16 +961,16 @@
 		"files": {
 			"mods/monday-night-mining.pw.toml": {
 				"download": {
-					"hash": "c4c7215ddfca5ebd1cb0ffdacf797695bfd36a9aa2ff141709f581414a99b2b89245f6f7a193b3c433d7ab4a272af5f87326236ef65d88e7f2856f7700ec231d",
+					"hash": "3928388444a3beda6021dc280d2e3916ebd34dcaa5b8a38781aeb565b0dd54d9d57dbe5c1bd8ce0405c033785d9a8f07c49ab35941929d83ed0ac5b3c8381d71",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/GZIAhmWQ/versions/utGCrgAa/monimi-1.1.4%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/GZIAhmWQ/versions/gJB6KcBL/monimi-1.1.4%2B26.1.2.jar"
 				},
 				"filename": "monimi-1.1.4+26.1.2.jar",
 				"name": "Monday Night Minin'",
 				"side": "both"
 			}
 		},
-		"key": "3ea55c65def8d4e27ebb48b64772634c71847849078508b7d95225c55a1c9928"
+		"key": "32996cfee5a6e7093a7f71f938a870012a8cfd074ce3942ecb6872c9069bc804"
 	},
 	"mugann": {
 		"checks": {
