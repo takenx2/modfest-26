@@ -142,16 +142,16 @@
 		"files": {
 			"mods/astraglossa.pw.toml": {
 				"download": {
-					"hash": "9928b884a46162c5f93a5df0aa4d51f268afa72d8d1ec381c333e5f4d54b594a38b2d316b922738ea646f519fee9b768c63d085d7a649f3f370dd32877a4fdfb",
+					"hash": "7296e6f37489942adf38509ef0091dc5baafa0ca9cb06a7284440dd0a4c132989ee94f94f711ebed2b89ad04fe9a06883a2d9d8212e522f1d82e6a0f6c9d3151",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/1yOi1X5j/versions/3LtMVwGx/astraglossa-0.4.6%2Btrunk.jar"
+					"url": "https://cdn.modrinth.com/data/1yOi1X5j/versions/47KFZMXs/astraglossa-0.4.7%2Btrunk.jar"
 				},
-				"filename": "astraglossa-0.4.6+trunk.jar",
+				"filename": "astraglossa-0.4.7+trunk.jar",
 				"name": "astraglossa",
 				"side": "both"
 			}
 		},
-		"key": "f347dcc21cf35b93c2e99865ac69b23f7beae240e0c9720eadf3fa9bd62baa6a"
+		"key": "4003e21820cc8ffe5c96195364fe0588f70df6fee751daff92c08c11ebd2851a"
 	},
 	"attire-craft": {
 		"checks": {
@@ -932,26 +932,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "6a576d8975b705937c035e9b290dd0138fedd4ab106a54e238f37e343916dec96dbaeeef66578d5293be83e10c9d7a5b8be3aef93ae384d2b8fe7e52cdee5df2",
+					"hash": "47ffa18369260c88ea847f6694ccb431a5aa9051c64e8d361186a767bb762dd9fcfbf4742ac65505eb60862900a1a3f1490994e7435376607de811eab8be4461",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/q87Wssd1/fabric-api-0.148.2%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BLz7ETCw/fabric-api-0.149.1%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.148.2+26.1.2.jar",
+				"filename": "fabric-api-0.149.1+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/meowdemic.pw.toml": {
 				"download": {
-					"hash": "92b54d6a59ef3fda7b0fdde6c1f37cd2f8edb7c8055108fe887d41f39804b3116c7dbf25ac5f773c7da53b8b3eed201575a1447becc886478ad8bd0ceb9b6fcc",
+					"hash": "8c028666e74c0f74db3483a0d427f1b6c84f227b44d72459a395e9e82d8c6e2386503c79f14bfe31fe6a174e4f9f3e0c212c5c695a9b3c70cd0fdf34d51fb5cc",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/yV8oVp1F/versions/i06ktScT/meowdemic-1.1.3.jar"
+					"url": "https://cdn.modrinth.com/data/yV8oVp1F/versions/POCZ5uuD/meowdemic-1.1.4.jar"
 				},
-				"filename": "meowdemic-1.1.3.jar",
+				"filename": "meowdemic-1.1.4.jar",
 				"name": "Meowdemic",
 				"side": "both"
 			}
 		},
-		"key": "b5f5c0bfa826aade570905a77ea92c6e095b0c009137993661dd9f9a54832f2c"
+		"key": "bef3647c1f71e3550c2798baf53a1a3fa4a20b2d0b46aa476164d48bf5d5ef4f"
 	},
 	"monday-night-mining": {
 		"checks": {
@@ -999,16 +999,16 @@
 		"files": {
 			"mods/off-the-shelf.pw.toml": {
 				"download": {
-					"hash": "cab0a2e8fa56f105d73b4e909839443935faec34ae4cec3dfeda830fbc15c58833a4eca925fb20430d58edef95db8f833ec8a8fe4d647a15bfd946ef4a6fa1c1",
+					"hash": "e6cd6b3e9b5479f208c8871c090958033350688bba99f55fee79420b81f1665d2ea0a32f973ab16a66ff0aec10851fcca30ab1c5022ae9505c6f02351ce395cf",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/ik7wleMZ/versions/41Lg93qN/offtheshelf-1.1.1-26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/ik7wleMZ/versions/mHas66DF/offtheshelf-1.1.2-26.1.2.jar"
 				},
-				"filename": "offtheshelf-1.1.1-26.1.2.jar",
+				"filename": "offtheshelf-1.1.2-26.1.2.jar",
 				"name": "Off The Shelf",
 				"side": "both"
 			}
 		},
-		"key": "24c912e46605900aba2947e28980f272d284c6420bf27be2c3c98537475ecd33"
+		"key": "26855ee586f758df1c1308f091d80ac9d398653642f62c4ae512bc7bab7a70b0"
 	},
 	"omikuji": {
 		"checks": {
@@ -1239,26 +1239,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "c7589aa4deeaa6dbefc13247eb5e0d4e257c152ef039937f54d6ee28282d3c84ccc96483d9c3950286fed6e3dcc546709898c8a446ab143d1663bc7d49649c54",
+					"hash": "47ffa18369260c88ea847f6694ccb431a5aa9051c64e8d361186a767bb762dd9fcfbf4742ac65505eb60862900a1a3f1490994e7435376607de811eab8be4461",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Sy2Bq7Xc/fabric-api-0.149.0%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BLz7ETCw/fabric-api-0.149.1%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.149.0+26.1.2.jar",
+				"filename": "fabric-api-0.149.1+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/scriboodle.pw.toml": {
 				"download": {
-					"hash": "e028f70d6028ce19e34fa659e91fefbf36b198d9fdd7bfd4b6055b3c61000820d4635145c950cde6d87d5d683676b10ca7b5be93c1affce9ccc0cc13d9ca3c00",
+					"hash": "7db8f0e3264f75216e21295f451cb088430d92a25d913a4dd4975817772d1095976637f67d0fe6723a47105c5919ac72e8d15b858e17b9b9630f8ccfd0950997",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/1KTbgBgQ/versions/mdP2aVfN/scriboodle-0.2.8.jar"
+					"url": "https://cdn.modrinth.com/data/1KTbgBgQ/versions/mB4mCo1y/scriboodle-0.2.9.jar"
 				},
-				"filename": "scriboodle-0.2.8.jar",
+				"filename": "scriboodle-0.2.9.jar",
 				"name": "Scriboodle",
 				"side": "both"
 			}
 		},
-		"key": "f1023fcb4b2c7ba37bf52f1b96a64831a696b3a81e196f2ad97f45a08f957825"
+		"key": "ab0e64740862717ac8bb059379f394e5375b21b269723e18b74f28e600f6d44b"
 	},
 	"slime-time": {
 		"checks": {
