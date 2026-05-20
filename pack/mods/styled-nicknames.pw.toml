@@ -1,13 +1,13 @@
 name = "Styled Nicknames"
-filename = "styled-nicknames-1.12.0+26.1.jar"
+filename = "styled-nicknames-1.12.1+26.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DOk6Gcdi/versions/OePo5uuc/styled-nicknames-1.12.0%2B26.1.jar"
+url = "https://cdn.modrinth.com/data/DOk6Gcdi/versions/bMzSafrC/styled-nicknames-1.12.1%2B26.1.jar"
 hash-format = "sha512"
-hash = "02733522a265349ee32bbeff59cd21ca0d2d2310753fdeceab784ebeab682573ecc41571b2a0c5a25e8607cee7485f3171191b281b0dba2bdd402dae8d0ad58e"
+hash = "6d19d9a5f99a0ed0e229b5b1f7b3b5eb6e2610efaab67b923f8714c6d7abbf421dd96e723da555020281a5747b6c877f67f95767baeabd0ed80fc6fd1dba907e"
 
 [update]
 [update.modrinth]
 mod-id = "DOk6Gcdi"
-version = "OePo5uuc"
+version = "bMzSafrC"
