@@ -147,6 +147,10 @@ metafile = true
 file = "mods/bento_util_fix-1.0.0.jar"
 
 [[files]]
+file = "mods/better-block-entities.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/better-log4j-config.pw.toml"
 metafile = true
 
