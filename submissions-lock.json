@@ -276,26 +276,16 @@
 		"files": {
 			"mods/booyah.pw.toml": {
 				"download": {
-					"hash": "aba31ea9c775268b735cede73f335874330d9d09853eacb775625ecbe1b9a7d8f6f6d01d5110ba34c1e8d1d03dc493c77e2ccc8ed07be0f084220b421c3ba6a1",
+					"hash": "8d4fd270ef9486d34309b78f931892c5d2564c1ea6e368fc79d6570238d3620d25260c6d00fe4c8421cd652cdfc4238004e2c330a34bb1088f1ce4757360e83b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/aKgA3BHj/versions/JdkEQ48y/booyah-1.0.1.jar"
+					"url": "https://cdn.modrinth.com/data/aKgA3BHj/versions/H4mCH92Q/booyah-1.0.2.jar"
 				},
-				"filename": "booyah-1.0.1.jar",
+				"filename": "booyah-1.0.2.jar",
 				"name": "Booyah!",
-				"side": "both"
-			},
-			"mods/fabric-api.pw.toml": {
-				"download": {
-					"hash": "c7589aa4deeaa6dbefc13247eb5e0d4e257c152ef039937f54d6ee28282d3c84ccc96483d9c3950286fed6e3dcc546709898c8a446ab143d1663bc7d49649c54",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Sy2Bq7Xc/fabric-api-0.149.0%2B26.1.2.jar"
-				},
-				"filename": "fabric-api-0.149.0+26.1.2.jar",
-				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "39ac1f7c98cafe313f485a0da24e5c6d3d64d1fef93e45dfb47c9156131157b4"
+		"key": "a84c4c78a60bc5b69530426ebd2da08e79f3ec7422b6ad880ab994880970ca36"
 	},
 	"botanicmagic": {
 		"checks": {
@@ -624,16 +614,16 @@
 		"files": {
 			"mods/hotdognalds.pw.toml": {
 				"download": {
-					"hash": "132fb64084ebfd6651cfc0873fd94d7b86a77e0318fa7d15eaef58deb959587408de5b8082bb8b8d90acfe1954683605002d2330d6604ab4db17890fefa03618",
+					"hash": "3dede55822c3044a840ad014ffeb2bcc6d2e2dad75f3d9eac980630b0a81b464efa079ebdd95e89fbce711d7186a870d9450ee0bf192b807c6f877ad8e21513f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/g0zHrDtk/versions/AiXyrw4T/hotdognalds-0.5.2%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/g0zHrDtk/versions/bFw2iDsG/hotdognalds-0.5.3%2B26.1.2.jar"
 				},
-				"filename": "hotdognalds-0.5.2+26.1.2.jar",
+				"filename": "hotdognalds-0.5.3+26.1.2.jar",
 				"name": "Hotdognald's",
 				"side": "both"
 			}
 		},
-		"key": "8accdef65e6cac905c8456870b1a39181604729dfc5a57734ef426a13c990fb4"
+		"key": "fb3cc42659e9e05fdd45157667b960d31568909dfc8f5f941d216a6d41b9c199"
 	},
 	"ikhemusek": {
 		"checks": {
@@ -942,16 +932,16 @@
 			},
 			"mods/meowdemic.pw.toml": {
 				"download": {
-					"hash": "8c028666e74c0f74db3483a0d427f1b6c84f227b44d72459a395e9e82d8c6e2386503c79f14bfe31fe6a174e4f9f3e0c212c5c695a9b3c70cd0fdf34d51fb5cc",
+					"hash": "03daf67aaea2ecf0e4cf2bbf1a90da70f4c45c71e86ded191b1f220411e1fd7a979e77224f33c298a6b616794131817cdd63a04e11706bbf371dc6bd28e8b61a",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/yV8oVp1F/versions/POCZ5uuD/meowdemic-1.1.4.jar"
+					"url": "https://cdn.modrinth.com/data/yV8oVp1F/versions/azBO5iWH/meowdemic-1.1.5.jar"
 				},
-				"filename": "meowdemic-1.1.4.jar",
+				"filename": "meowdemic-1.1.5.jar",
 				"name": "Meowdemic",
 				"side": "both"
 			}
 		},
-		"key": "bef3647c1f71e3550c2798baf53a1a3fa4a20b2d0b46aa476164d48bf5d5ef4f"
+		"key": "f0c47a4dd30f3bafd4b0df6aab483b90458c8b96c86788d73d93f379143786e5"
 	},
 	"monday-night-mining": {
 		"checks": {
