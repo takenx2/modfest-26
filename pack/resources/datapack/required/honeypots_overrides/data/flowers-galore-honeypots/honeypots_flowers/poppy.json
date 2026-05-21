@@ -1,0 +1,4 @@
+{
+    "flower": "flowers-galore:poppy",
+    "effects": {"id": "minecraft:night_vision", "inverted": "minecraft:invisibility"}
+}

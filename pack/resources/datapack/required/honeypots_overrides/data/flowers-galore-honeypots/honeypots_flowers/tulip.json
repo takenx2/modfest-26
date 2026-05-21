@@ -1,0 +1,4 @@
+{
+    "flower": "flowers-galore:tulip",
+    "effects": {"id": "minecraft:weakness", "inverted": "minecraft:strength"}
+}

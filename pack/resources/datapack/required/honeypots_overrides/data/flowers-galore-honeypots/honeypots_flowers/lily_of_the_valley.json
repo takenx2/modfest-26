@@ -1,0 +1,4 @@
+{
+    "flower": "flowers-galore:lily_of_the_valley",
+    "effects": {"id": "minecraft:poison", "inverted": "minecraft:instant_damage"}
+}
