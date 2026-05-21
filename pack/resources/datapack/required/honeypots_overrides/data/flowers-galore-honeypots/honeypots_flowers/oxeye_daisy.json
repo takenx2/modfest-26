@@ -1,0 +1,4 @@
+{
+    "flower": "flowers-galore:oxeye_daisy",
+    "effects": {"id": "minecraft:regeneration", "duration": 600, "infinite": false}
+}

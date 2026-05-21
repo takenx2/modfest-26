@@ -1,0 +1,4 @@
+{
+    "flower": "flowers-galore:lilac",
+    "effects": {"id": "minecraft:speed", "inverted": "minecraft:slowness"}
+}

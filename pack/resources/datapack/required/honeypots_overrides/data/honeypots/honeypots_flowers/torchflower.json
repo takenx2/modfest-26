@@ -1,0 +1,4 @@
+{
+    "flower": "minecraft:torchflower",
+    "effects": {"id": "appetizers:chrono_anchor", "duration": 400}
+}

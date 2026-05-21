@@ -1,0 +1,4 @@
+{
+    "flower": "flowers-galore:cornflower",
+    "effects": {"id": "minecraft:jump_boost", "inverted": "minecraft:slowness"}
+}

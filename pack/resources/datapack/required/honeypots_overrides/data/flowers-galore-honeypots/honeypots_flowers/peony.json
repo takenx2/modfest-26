@@ -1,0 +1,4 @@
+{
+    "flower": "flowers-galore:peony",
+    "effects": {"id": "minecraft:luck", "inverted": "minecraft:unluck"}
+}

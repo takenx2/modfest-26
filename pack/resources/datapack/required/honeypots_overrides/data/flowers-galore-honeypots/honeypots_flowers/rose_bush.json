@@ -1,0 +1,4 @@
+{
+    "flower": "flowers-galore:rose_bush",
+    "effects": {"id": "minecraft:strength", "inverted": "minecraft:weakness"}
+}
