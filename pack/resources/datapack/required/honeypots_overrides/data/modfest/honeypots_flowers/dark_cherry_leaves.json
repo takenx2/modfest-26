@@ -1,0 +1,4 @@
+{
+    "flower": ["psithurism:dark_cherry_leaves", "psithurism:white_petals"],
+    "effects": {"id": "minecraft:slow_falling", "duration": 1200, "inverted": {"id": "minecraft:darkness", "infinite": false, "duration": 600}}
+}

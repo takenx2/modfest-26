@@ -1,4 +1,4 @@
 {
     "flower": ["flowers-galore:orchid", "flowers-galore:dandelion"],
-    "effects": {"id": "minecraft:saturation", "inverted": "minecraft:hunger"}
+    "effects": {"id": "minecraft:saturation", "duration": 7, "infinite": false, "inverted": {"id": "minecraft:hunger"}}
 }

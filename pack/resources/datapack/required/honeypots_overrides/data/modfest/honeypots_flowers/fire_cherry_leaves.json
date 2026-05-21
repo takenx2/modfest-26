@@ -1,0 +1,7 @@
+{
+    "flower": ["productive_cherry_trees:fire_leafs", "productive_cherry_trees:fire_petals"],
+    "effects": [
+        {"id": "minecraft:slow_falling", "duration": 600, "inverted": {"id": "minecraft:levitation", "infinite": false, "duration": 300}},
+        {"id": "minecraft:fire_resistance", "duration": 600}
+    ]
+}

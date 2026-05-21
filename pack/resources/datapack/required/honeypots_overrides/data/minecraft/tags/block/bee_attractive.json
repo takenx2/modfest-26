@@ -1,0 +1,26 @@
+{
+    "replace": false,
+    "values": [
+        "botanicmagic:abyssum",
+        "botanicmagic:begoneya",
+        "psithurism:dark_cherry_leaves",
+        "psithurism:white_petals",
+        "productive_cherry_trees:fire_leafs",
+        "productive_cherry_trees:fire_petals",
+        "botanicmagic:glaciolus",
+        "productive_cherry_trees:gold_leafs",
+        "productive_cherry_trees:gold_petals",
+        "botanicmagic:holyhock",
+        "psithurism:maneki_neko",
+        "botanicmagic:pyrotunia",
+        "psithurism:rice_plant",
+        "botanicmagic:sparkspur",
+        "productive_cherry_trees:stone_leafs",
+        "productive_cherry_trees:stone_petals",
+        "botanicmagic:terrow",
+        "productive_cherry_trees:test_leafs",
+        "productive_cherry_trees:test_petals",
+        "productive_cherry_trees:water_leafs",
+        "productive_cherry_trees:water_petals"
+    ]
+}

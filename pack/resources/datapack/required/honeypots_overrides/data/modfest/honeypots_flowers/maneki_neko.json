@@ -1,0 +1,7 @@
+{
+    "flower": "psithurism:maneki_neko",
+    "effects": [
+        {"id": "minecraft:luck", "amplifier": 1, "max_amplifier": 4, "inverted": "minecraft:unluck"},
+        {"id": "im:gold", "duration": 400}
+    ]
+}

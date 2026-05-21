@@ -1,0 +1,7 @@
+{
+    "flower": "psithurism:rice_plant",
+    "effects": [
+        {"id":"minecraft:saturation", "duration": 1, "infinite": false},
+        {"id": "minecraft:breath_of_the_nautilus", "duration": 200}
+    ]
+}
