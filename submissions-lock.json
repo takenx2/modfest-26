@@ -232,8 +232,8 @@
 	},
 	"berry-fantastic": {
 		"checks": {
-			"claimed": false,
-			"tested": false
+			"claimed": true,
+			"tested": true
 		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
@@ -942,16 +942,16 @@
 			},
 			"mods/meowdemic.pw.toml": {
 				"download": {
-					"hash": "9c0998e369602921fe74da3fe2cc61764f432664ca0e2a82664fafedff70a6ae77862ad3c0d73d9cff45c3495b29cdb01fb9147be39e12910c66a8f72ada0450",
+					"hash": "94d0d881cbecba82aa1dd6ba58c152c00117e31bd106fc5d03e31c7cf2837f22d3dc40b9087cc02696594cde98928354a7312412916d1da8436ab93be02d1a55",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/yV8oVp1F/versions/FDUH8JdN/meowdemic-1.1.6.jar"
+					"url": "https://cdn.modrinth.com/data/yV8oVp1F/versions/8W85gvUl/meowdemic-1.1.7.jar"
 				},
-				"filename": "meowdemic-1.1.6.jar",
+				"filename": "meowdemic-1.1.7.jar",
 				"name": "Meowdemic",
 				"side": "both"
 			}
 		},
-		"key": "ac222638977715136bc49cf8a2441a5471f56f5e6c4a86241aa53d5c92e8521f"
+		"key": "f28d40e0936195242542bbeb905e45dff240ecc628f75ac9b0dc41df9116737a"
 	},
 	"monday-night-mining": {
 		"checks": {
@@ -1220,16 +1220,16 @@
 		"files": {
 			"mods/renmi.pw.toml": {
 				"download": {
-					"hash": "830c5837f433bfc2d26fc2054c2674559efa4d4570e128095386bd59a8d292e51dbe54f0b67f241962848df364350b1252f53762fd4b0aca7e4f97e194b3d368",
+					"hash": "62b7051e373cec63199e659860a3bd8224016c307f8698e4077e13a576253d2db2f845c4a12a837319d686babc7f77b4170692a3ccd6f5dfc312d8fb9d9eb6ed",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/WUrSmxSJ/versions/tATWLxoF/renmi-1.0.9-beta%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/WUrSmxSJ/versions/MdBFArA5/renmi-1.0.10-beta%2B26.1.2.jar"
 				},
-				"filename": "renmi-1.0.9-beta+26.1.2.jar",
+				"filename": "renmi-1.0.10-beta+26.1.2.jar",
 				"name": "Ren'mi",
 				"side": "both"
 			}
 		},
-		"key": "3b20522bb379ad8dc053ecc35f86b534ed217869c05e3b0c1398bbf980180f37"
+		"key": "b4720ef87da6712a9854c252e93e86d32b511959deea5e588c294833089b68f2"
 	},
 	"scriboodle": {
 		"checks": {
