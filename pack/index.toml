@@ -28,6 +28,9 @@ file = "config/cantilever.toml"
 file = "config/crunchy_crunchy_advancements.toml"
 
 [[files]]
+file = "config/custom_logo.toml"
+
+[[files]]
 file = "config/customwindowtitle-client.toml"
 
 [[files]]
@@ -177,6 +180,10 @@ metafile = true
 
 [[files]]
 file = "mods/crunchy-crunchy-advancements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/custom-logo.pw.toml"
 metafile = true
 
 [[files]]

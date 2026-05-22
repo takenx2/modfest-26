@@ -1,0 +1,15 @@
+name = "custom-logo"
+filename = "custom-logo-0.1.0+26.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/afamiliarquiet/custom-logo/releases/download/0.1.0/custom-logo-0.1.0%2B26.1.jar"
+hash-format = "sha256"
+hash = "04f9f091e1757714d32d4c70a254cb4d2a7b4eaafaa345bb2bae3f4013923210"
+
+[update]
+[update.github]
+branch = "26.1"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "afamiliarquiet/custom-logo"
+tag = "0.1.0"
