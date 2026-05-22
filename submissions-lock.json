@@ -7,26 +7,26 @@
 		"files": {
 			"mods/absurdly-amazing-alloys.pw.toml": {
 				"download": {
-					"hash": "fec83f52c523f7d9ed22d612c803ecf9c8d23b32010dcc9e3b9d6be5e993260e6c0f57e8326bbc8aa8a7e1862fb8fb17e055ca41b6d37b25b522664dcc645731",
+					"hash": "68034a7a834a20d32022a33f951fa7db2fc42cce0712bf782fbe5a93262b5fe7bc9a1660733c4110aedd8cc014e3a6cc5056001cc1ecad2b521fdd724359778c",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/XzFtgXMa/versions/dOgl2sFj/absurdly-amazing-alloys-0.1.4.1%2Bfabric-26.1.jar"
+					"url": "https://cdn.modrinth.com/data/XzFtgXMa/versions/Z8Nng350/absurdly-amazing-alloys-0.1.5%2Bfabric-26.1.jar"
 				},
-				"filename": "absurdly-amazing-alloys-0.1.4.1+fabric-26.1.jar",
+				"filename": "absurdly-amazing-alloys-0.1.5+fabric-26.1.jar",
 				"name": "Absurdly Amazing Alloys",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "6a576d8975b705937c035e9b290dd0138fedd4ab106a54e238f37e343916dec96dbaeeef66578d5293be83e10c9d7a5b8be3aef93ae384d2b8fe7e52cdee5df2",
+					"hash": "47ffa18369260c88ea847f6694ccb431a5aa9051c64e8d361186a767bb762dd9fcfbf4742ac65505eb60862900a1a3f1490994e7435376607de811eab8be4461",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/q87Wssd1/fabric-api-0.148.2%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BLz7ETCw/fabric-api-0.149.1%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.148.2+26.1.2.jar",
+				"filename": "fabric-api-0.149.1+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "441d5688ab71d331eea41161512a10f7f9bc0b396e09e1643ffea9b3672732b5"
+		"key": "db15b1dd2bb191f509e4155c5d2573d09c24d2f888efca478b00c15b63550b66"
 	},
 	"advanced-classroom-furniture": {
 		"checks": {
@@ -257,16 +257,16 @@
 		"files": {
 			"mods/bloom-festal.pw.toml": {
 				"download": {
-					"hash": "362d6450230a07a1d643d4f10f773bd7ad44a2ec7d7ed428fd65bb45b861993ed0eabf12c812b8a41f3ea39795178905e3fffb0f4fd2405826cc299673693a48",
+					"hash": "9b96c307c5f873977e16ed97875545b1f0a9ade0db1b4e02966079162ae14a2ca3ca7d3f4e970e10b46bb6a172d4f64220c3fd0ae3cf5ce133492469aa6ca7bc",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/xf63Yoa7/versions/2H6VMlF9/bloom-festal-1.0.6%2Bfabric-26.1.1.jar"
+					"url": "https://cdn.modrinth.com/data/xf63Yoa7/versions/CNqG4tIG/bloom-festal-1.0.7%2Bfabric-26.1.1.jar"
 				},
-				"filename": "bloom-festal-1.0.6+fabric-26.1.1.jar",
+				"filename": "bloom-festal-1.0.7+fabric-26.1.1.jar",
 				"name": "Bloom Festal",
 				"side": "both"
 			}
 		},
-		"key": "16b6fa38d227449e20dd44bfb9b25563ddde04ee3c55787cd183bbe27831bcef"
+		"key": "16ea1b5db4828ea0fb0dc602f409ba66b8a39766b8a80bce1fea83546d2f42df"
 	},
 	"booyah": {
 		"checks": {
@@ -276,16 +276,26 @@
 		"files": {
 			"mods/booyah.pw.toml": {
 				"download": {
-					"hash": "8d4fd270ef9486d34309b78f931892c5d2564c1ea6e368fc79d6570238d3620d25260c6d00fe4c8421cd652cdfc4238004e2c330a34bb1088f1ce4757360e83b",
+					"hash": "5b0dbae3c33ebeea56e30b4153d4465784a1b89c3a099116cfd8b58fd3398d1fab33142a340a89ef91cce96c600df9cbac63aa04b5dcf4652b451c427e2e1f7c",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/aKgA3BHj/versions/H4mCH92Q/booyah-1.0.2.jar"
+					"url": "https://cdn.modrinth.com/data/aKgA3BHj/versions/QbqtYXbk/booyah-1.0.3.jar"
 				},
-				"filename": "booyah-1.0.2.jar",
+				"filename": "booyah-1.0.3.jar",
 				"name": "Booyah!",
+				"side": "both"
+			},
+			"mods/fabric-api.pw.toml": {
+				"download": {
+					"hash": "47ffa18369260c88ea847f6694ccb431a5aa9051c64e8d361186a767bb762dd9fcfbf4742ac65505eb60862900a1a3f1490994e7435376607de811eab8be4461",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BLz7ETCw/fabric-api-0.149.1%2B26.1.2.jar"
+				},
+				"filename": "fabric-api-0.149.1+26.1.2.jar",
+				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "a84c4c78a60bc5b69530426ebd2da08e79f3ec7422b6ad880ab994880970ca36"
+		"key": "7fecdcf58c2e7d5f8935608856392f2a710880bce95c003a11d7c4f5453337c6"
 	},
 	"botanicmagic": {
 		"checks": {
@@ -401,26 +411,26 @@
 		"files": {
 			"mods/dual-stance.pw.toml": {
 				"download": {
-					"hash": "4f8b97a296b8d34e9b5b566e7258218ebc09b0aac133444da428eb284fd87abdc3a5ae5ad4cda6369c2afb62ee0fab2ba152287ffac9f77e29c04f5269c81131",
+					"hash": "258a97eeb955df2c4b0b16a1036ac9e4c90392c78ddfdea8433f2ca51aad9b15c02c3e81269b539ce8e33772821424673e22d91a581aedbc658947d066979ec2",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/z6Esg6rK/versions/7SazDaa7/dual-stance-0.4.6.jar"
+					"url": "https://cdn.modrinth.com/data/z6Esg6rK/versions/rFkPNDkC/dual-stance-0.4.7.jar"
 				},
-				"filename": "dual-stance-0.4.6.jar",
+				"filename": "dual-stance-0.4.7.jar",
 				"name": "Dual Stance",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "4e9d39150af43869f68b03e91c51618a0d0c34ec7bfd57b515a9031364d35e391985ca1e2349daaa8d6f8fc88e4b96cfa5793bb0f98932ce0b3683fe4a238ce4",
+					"hash": "47ffa18369260c88ea847f6694ccb431a5aa9051c64e8d361186a767bb762dd9fcfbf4742ac65505eb60862900a1a3f1490994e7435376607de811eab8be4461",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/KAvhN1it/fabric-api-0.148.0%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BLz7ETCw/fabric-api-0.149.1%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.148.0+26.1.2.jar",
+				"filename": "fabric-api-0.149.1+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "097f8ed8e09f98d75710f50b06478f99c6e89956414b814aae4038a0191e7296"
+		"key": "008a6bf6046db52c1f206e98af834b384c5608a00f412599205235c4379dd927"
 	},
 	"enamel": {
 		"checks": {
@@ -585,26 +595,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "4e9d39150af43869f68b03e91c51618a0d0c34ec7bfd57b515a9031364d35e391985ca1e2349daaa8d6f8fc88e4b96cfa5793bb0f98932ce0b3683fe4a238ce4",
+					"hash": "47ffa18369260c88ea847f6694ccb431a5aa9051c64e8d361186a767bb762dd9fcfbf4742ac65505eb60862900a1a3f1490994e7435376607de811eab8be4461",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/KAvhN1it/fabric-api-0.148.0%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BLz7ETCw/fabric-api-0.149.1%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.148.0+26.1.2.jar",
+				"filename": "fabric-api-0.149.1+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/honeypots.pw.toml": {
 				"download": {
-					"hash": "7d3f4d080e6fd9af219c76cf668cb6aedbfac39cc8f2bd334ac00f5ddac96c68e4c39af073a8ca65215e0e4911bc09838b8c018bd9a6688362579a976441180b",
+					"hash": "0d78de83ffa45c8e50126cec6fcc38cbf04c203b1b76114d1e55f18af0afc3177dc24dd1371ca4b5c9df4a5061006089c25ba8d23e5ebb35b084435d3ce31300",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/Nd9XDQtQ/versions/joRliXSJ/honeypots-1.1.3.jar"
+					"url": "https://cdn.modrinth.com/data/Nd9XDQtQ/versions/pKNRHwf1/honeypots-1.1.4.jar"
 				},
-				"filename": "honeypots-1.1.3.jar",
+				"filename": "honeypots-1.1.4.jar",
 				"name": "HoneyPots",
 				"side": "both"
 			}
 		},
-		"key": "1b649ebd8396a9f51ed35e87a0956eadec58bb9929dc1fdb530982124adcd6f1"
+		"key": "9755978a56e5fb3881b05746c690977379da6275c4ce6d23a24d0f0a4c85d71d"
 	},
 	"hotdognalds": {
 		"checks": {
@@ -932,16 +942,16 @@
 			},
 			"mods/meowdemic.pw.toml": {
 				"download": {
-					"hash": "03daf67aaea2ecf0e4cf2bbf1a90da70f4c45c71e86ded191b1f220411e1fd7a979e77224f33c298a6b616794131817cdd63a04e11706bbf371dc6bd28e8b61a",
+					"hash": "9c0998e369602921fe74da3fe2cc61764f432664ca0e2a82664fafedff70a6ae77862ad3c0d73d9cff45c3495b29cdb01fb9147be39e12910c66a8f72ada0450",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/yV8oVp1F/versions/azBO5iWH/meowdemic-1.1.5.jar"
+					"url": "https://cdn.modrinth.com/data/yV8oVp1F/versions/FDUH8JdN/meowdemic-1.1.6.jar"
 				},
-				"filename": "meowdemic-1.1.5.jar",
+				"filename": "meowdemic-1.1.6.jar",
 				"name": "Meowdemic",
 				"side": "both"
 			}
 		},
-		"key": "f0c47a4dd30f3bafd4b0df6aab483b90458c8b96c86788d73d93f379143786e5"
+		"key": "ac222638977715136bc49cf8a2441a5471f56f5e6c4a86241aa53d5c92e8521f"
 	},
 	"monday-night-mining": {
 		"checks": {
