@@ -1,0 +1,6 @@
+# Whether to replace advancements button with a shard collection button
+# default: true
+replace_advancements = true
+# Whether to use unique outline textures for each mini shard and for front and back variations
+# default: false
+use_unique_mini_outlines = true

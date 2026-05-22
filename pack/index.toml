@@ -4,6 +4,9 @@ hash-format = "sha256"
 file = ".pteroignore"
 
 [[files]]
+file = "config/BBEConfig.json"
+
+[[files]]
 file = "config/ballotbox.toml"
 
 [[files]]
@@ -77,6 +80,9 @@ file = "config/polymer/common.json"
 
 [[files]]
 file = "config/roles.json"
+
+[[files]]
+file = "config/scattered_shards.toml"
 
 [[files]]
 file = "config/snapper.json"
@@ -194,7 +200,7 @@ file = "mods/fabrictailor.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fireblanket-0.9.2+fabric-26.1.jar"
+file = "mods/fireblanket-0.9.3+fabric-26.1.jar"
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
@@ -616,16 +622,25 @@ file = "resources/common/required/mf_shards/data/scattered_shards/shard_type/typ
 file = "resources/common/required/mf_shards/pack.mcmeta"
 
 [[files]]
-file = "resources/common/required/monimi_charts/assets/monimi/sounds.json"
+file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/beneath_the_virtual_sky-mono.ogg"
 
 [[files]]
 file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/beneath_the_virtual_sky.ogg"
 
 [[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/rot_for_clout-mono.ogg"
+
+[[files]]
 file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/rot_for_clout.ogg"
 
 [[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/slasher-mono.ogg"
+
+[[files]]
 file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/slasher.ogg"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/the_89s_momentum-mono.ogg"
 
 [[files]]
 file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/the_89s_momentum.ogg"
@@ -643,16 +658,61 @@ file = "resources/common/required/monimi_charts/assets/monimi/textures/cover/sla
 file = "resources/common/required/monimi_charts/assets/monimi/textures/cover/the_89s_momentum.png"
 
 [[files]]
-file = "resources/common/required/monimi_charts/data/monimi/charts/beneath_the_virtual_sky.json"
+file = "resources/common/required/monimi_charts/assets/monimi_hololive/sounds/music/snake_eyes-mono.ogg"
 
 [[files]]
-file = "resources/common/required/monimi_charts/data/monimi/charts/rot_for_clout.json"
+file = "resources/common/required/monimi_charts/assets/monimi_hololive/sounds/music/snake_eyes.ogg"
 
 [[files]]
-file = "resources/common/required/monimi_charts/data/monimi/charts/slasher.json"
+file = "resources/common/required/monimi_charts/assets/monimi_hololive/sounds/music/tako_takeover-mono.ogg"
 
 [[files]]
-file = "resources/common/required/monimi_charts/data/monimi/charts/the_89s_momentum.json"
+file = "resources/common/required/monimi_charts/assets/monimi_hololive/sounds/music/tako_takeover.ogg"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi_hololive/sounds/music/wind_up-mono.ogg"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi_hololive/sounds/music/wind_up.ogg"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi_hololive/textures/cover/snake_eyes.png"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi_hololive/textures/cover/tako_takeover.png"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi_hololive/textures/cover/wind_up.png"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi/charts/beneath_the_virtual_sky-hard.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi/charts/beneath_the_virtual_sky-normal.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi/charts/rot_for_clout-hard.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi/charts/slasher-hard.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi/charts/slasher-normal.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi/charts/the_89s_momentum-hard.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi/charts/the_89s_momentum-mania.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi_hololive/charts/snake_eyes.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi_hololive/charts/tako_takeover.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi_hololive/charts/wind_up.json"
 
 [[files]]
 file = "resources/common/required/monimi_charts/pack.mcmeta"
@@ -775,6 +835,102 @@ file = "resources/datapack/required/free_build/data/free_build/tags/item/free_bu
 file = "resources/datapack/required/free_build/pack.mcmeta"
 
 [[files]]
+file = "resources/datapack/required/honeypots_overrides/data/flowers-galore-honeypots/honeypots_flowers/_gold.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/flowers-galore-honeypots/honeypots_flowers/allium.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/flowers-galore-honeypots/honeypots_flowers/azure_bluet.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/flowers-galore-honeypots/honeypots_flowers/cornflower.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/flowers-galore-honeypots/honeypots_flowers/lilac.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/flowers-galore-honeypots/honeypots_flowers/lily_of_the_valley.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/flowers-galore-honeypots/honeypots_flowers/orchid.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/flowers-galore-honeypots/honeypots_flowers/oxeye_daisy.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/flowers-galore-honeypots/honeypots_flowers/peony.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/flowers-galore-honeypots/honeypots_flowers/poppy.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/flowers-galore-honeypots/honeypots_flowers/rose_bush.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/flowers-galore-honeypots/honeypots_flowers/sunflower.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/flowers-galore-honeypots/honeypots_flowers/tulip.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/honeypots/honeypots_flowers/torchflower.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/honeypots/tags/block/infinite_flowers.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/minecraft/tags/block/bee_attractive.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/modfest/honeypots_flowers/abyssum.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/modfest/honeypots_flowers/begoneya.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/modfest/honeypots_flowers/dark_cherry_leaves.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/modfest/honeypots_flowers/fire_cherry_leaves.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/modfest/honeypots_flowers/glaciolus.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/modfest/honeypots_flowers/gold_cherry_leaves.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/modfest/honeypots_flowers/holyhock.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/modfest/honeypots_flowers/maneki_neko.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/modfest/honeypots_flowers/pyrotunia.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/modfest/honeypots_flowers/rice_plant.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/modfest/honeypots_flowers/sparkspur.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/modfest/honeypots_flowers/stone_cherry_leaves.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/modfest/honeypots_flowers/terrow.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/modfest/honeypots_flowers/test_cherry_leaves.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/data/modfest/honeypots_flowers/water_cherry_leaves.json"
+
+[[files]]
+file = "resources/datapack/required/honeypots_overrides/pack.mcmeta"
+
+[[files]]
 file = "resources/datapack/required/mf_ballotbox/data/ballotbox/ballot/categories.json"
 
 [[files]]
@@ -782,6 +938,12 @@ file = "resources/datapack/required/mf_ballotbox/data/ballotbox/ballot/options.j
 
 [[files]]
 file = "resources/datapack/required/mf_ballotbox/pack.mcmeta"
+
+[[files]]
+file = "resources/datapack/required/mf_commands/data/modfest/function/booth_commands.mcfunction"
+
+[[files]]
+file = "resources/datapack/required/mf_commands/pack.mcmeta"
 
 [[files]]
 file = "resources/datapack/required/mf_fireblanket/data/fireblanket/tags/block/block_interaction_restricted.json"
@@ -797,6 +959,12 @@ file = "resources/datapack/required/mf_fireblanket/data/fireblanket/tags/item/it
 
 [[files]]
 file = "resources/datapack/required/mf_fireblanket/pack.mcmeta"
+
+[[files]]
+file = "resources/datapack/required/switchyscale/data/minecraft/switchy_components/scale.json"
+
+[[files]]
+file = "resources/datapack/required/switchyscale/pack.mcmeta"
 
 [[files]]
 file = "resources/resourcepack/required/Osmium-Sans-1.0-custom.zip"
@@ -1088,6 +1256,27 @@ file = "resources/resourcepack/required/mod_descriptions/assets/modfest/lang/en_
 
 [[files]]
 file = "resources/resourcepack/required/mod_descriptions/pack.mcmeta"
+
+[[files]]
+file = "resources/resourcepack/required/monimi_anims/assets/monimi/animations/benson.json"
+
+[[files]]
+file = "resources/resourcepack/required/monimi_anims/assets/monimi/animations/doki.json"
+
+[[files]]
+file = "resources/resourcepack/required/monimi_anims/assets/monimi/animations/proximity.json"
+
+[[files]]
+file = "resources/resourcepack/required/monimi_anims/assets/monimi/items/benson_microphone.json"
+
+[[files]]
+file = "resources/resourcepack/required/monimi_anims/assets/monimi/models/item/benson_microphone.json"
+
+[[files]]
+file = "resources/resourcepack/required/monimi_anims/assets/monimi/textures/item/benson_microphone.png"
+
+[[files]]
+file = "resources/resourcepack/required/monimi_anims/pack.mcmeta"
 
 [[files]]
 file = "resources/resourcepack/required/twemoji.zip"
