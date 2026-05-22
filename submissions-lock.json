@@ -236,13 +236,23 @@
 			"tested": true
 		},
 		"files": {
+			"mods/berry-fantastic.pw.toml": {
+				"download": {
+					"hash": "cd5b0658b734c3b6f895e0ab352f4fd6954d170813c70c5b2ba1fcc1304fffea051dcef207e44dca0f67373872463c1f8a92b7b4d14206d94f133d1c20b33e2c",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/qhrq5l7x/versions/Vy5Qbjzd/berry-fantastic-0.1.1%2Bfabric-26.1.jar"
+				},
+				"filename": "berry-fantastic-0.1.1+fabric-26.1.jar",
+				"name": "Berry Fantastic",
+				"side": "both"
+			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "4e9d39150af43869f68b03e91c51618a0d0c34ec7bfd57b515a9031364d35e391985ca1e2349daaa8d6f8fc88e4b96cfa5793bb0f98932ce0b3683fe4a238ce4",
+					"hash": "47ffa18369260c88ea847f6694ccb431a5aa9051c64e8d361186a767bb762dd9fcfbf4742ac65505eb60862900a1a3f1490994e7435376607de811eab8be4461",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/KAvhN1it/fabric-api-0.148.0%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BLz7ETCw/fabric-api-0.149.1%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.148.0+26.1.2.jar",
+				"filename": "fabric-api-0.149.1+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			}
