@@ -1,5 +1,6 @@
 {
-	"item.scattered_shards.shard_tablet": "Red Backpack",
+	"item.scattered_shards.shard_tablet": "Collector's Backpack",
+	"lore.scattered_shards.shard_tablet": "A backpack that can be used to view all the lost items you have found while visiting booths.",
 
 	"key.scattered_shards.collection": "View Backpack",
 

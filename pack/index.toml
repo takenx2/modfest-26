@@ -566,6 +566,9 @@ file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/v
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/visitor_mini_front_outline.png"
 
 [[files]]
+file = "resources/common/required/mf_shards/assets/scattered_shards/textures/item/shard_tablet.png"
+
+[[files]]
 file = "resources/common/required/mf_shards/data/scattered_shards/shard_type/types.json"
 
 [[files]]
