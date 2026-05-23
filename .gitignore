@@ -11,3 +11,6 @@ __pycache__
 
 # scripts
 scripts/data
+
+# Sometimes you gotta make a mess
+/tmp
