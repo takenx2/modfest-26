@@ -485,28 +485,13 @@ file = "resources/common/required/mf_music/pack.png"
 file = "resources/common/required/mf_shards/assets/modfest/lang/en_us.json"
 
 [[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/avocado_backing.png"
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/.bonus_1_front.png-autosave.kra"
 
 [[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/avocado_front.png"
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/.bonus_2_front.png-autosave.kra"
 
 [[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/avocado_mini_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/avocado_mini_front.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/banana_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/banana_front.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/banana_mini_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/banana_mini_front.png"
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/.bonus_3_front.png-autosave.kra"
 
 [[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_1_backing.png"
@@ -518,7 +503,13 @@ file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/b
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_1_mini_backing.png"
 
 [[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_1_mini_backing_outline.png"
+
+[[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_1_mini_front.png"
+
+[[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_1_mini_front_outline.png"
 
 [[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_2_backing.png"
@@ -530,7 +521,13 @@ file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/b
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_2_mini_backing.png"
 
 [[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_2_mini_backing_outline.png"
+
+[[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_2_mini_front.png"
+
+[[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_2_mini_front_outline.png"
 
 [[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_3_backing.png"
@@ -542,67 +539,13 @@ file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/b
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_3_mini_backing.png"
 
 [[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_3_mini_backing_outline.png"
+
+[[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_3_mini_front.png"
 
 [[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/coconut_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/coconut_front.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/coconut_mini_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/coconut_mini_front.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/dragonfruit_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/dragonfruit_front.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/dragonfruit_mini_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/dragonfruit_mini_front.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/lychee_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/lychee_front.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/lychee_mini_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/lychee_mini_front.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/mango_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/mango_front.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/mango_mini_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/mango_mini_front.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/passionfruit_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/passionfruit_front.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/passionfruit_mini_backing.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/passionfruit_mini_front.png"
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_3_mini_front_outline.png"
 
 [[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/visitor_backing.png"
@@ -614,13 +557,13 @@ file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/v
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/visitor_mini_backing.png"
 
 [[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/visitor_mini_backing_outline.png"
+
+[[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/visitor_mini_front.png"
 
 [[files]]
-file = "resources/common/required/mf_shards/assets/scattered_shards/textures/gui/shards/mini_outline.png"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/scattered_shards/textures/gui/shards/mini_outline_slight.png"
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/visitor_mini_front_outline.png"
 
 [[files]]
 file = "resources/common/required/mf_shards/data/scattered_shards/shard_type/types.json"

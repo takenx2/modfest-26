@@ -1,23 +1,33 @@
 {
 	"display_settings": {
-		"draw_mini_icons": true,
+		"draw_mini_icons": false,
 		"library_color": "#861e2c",
 		"library_set_name_color": "#ffffff",
 		"viewer_top_color": "#2f1416",
 		"viewer_bottom_color": "#1b080c"
 	},
 	"modfest:visitor": {
-		"text_color": "#ff55ff",
-		"glow_color": "#ff55ff",
+		"text_color": "#ff6f66",
+		"glow_color": "#ff6f66",
 		"display": {
 			"offsets": {
 				"normal": {
-					"top": 8,
-					"left": 4
+					"top": 2,
+					"left": 8
 				},
 				"mini": {
 					"top": 4,
 					"left": 2
+				}
+			},
+			"textures": {
+				"normal": {
+					"width": 32,
+					"height": 32
+				},
+				"mini": {
+					"width": 16,
+					"height": 16
 				}
 			}
 		},
@@ -28,17 +38,27 @@
 		"list_order": 1
 	},
 	"modfest:bonus_1": {
-		"text_color": "#ff8fb4",
-		"glow_color": "#ff8fb4",
+		"text_color": "#ffc69a",
+		"glow_color": "#ffc69a",
 		"display": {
 			"offsets": {
 				"normal": {
-					"top": 8,
-					"left": 4
+					"top": 5,
+					"left": 8
 				},
 				"mini": {
 					"top": 4,
 					"left": 2
+				}
+			},
+			"textures": {
+				"normal": {
+					"width": 32,
+					"height": 32
+				},
+				"mini": {
+					"width": 16,
+					"height": 16
 				}
 			}
 		},
@@ -49,17 +69,27 @@
 		"list_order": 2
 	},
 	"modfest:bonus_2": {
-		"text_color": "#4bedd9",
-		"glow_color": "#4bedd9",
+		"text_color": "#ff98aa",
+		"glow_color": "#ff98aa",
 		"display": {
 			"offsets": {
 				"normal": {
 					"top": 8,
-					"left": 4
+					"left": 8
 				},
 				"mini": {
 					"top": 4,
 					"left": 2
+				}
+			},
+			"textures": {
+				"normal": {
+					"width": 32,
+					"height": 32
+				},
+				"mini": {
+					"width": 16,
+					"height": 16
 				}
 			}
 		},
@@ -70,17 +100,27 @@
 		"list_order": 3
 	},
 	"modfest:bonus_3": {
-		"text_color": "#fbf236",
-		"glow_color": "#fbf236",
+		"text_color": "#df9239",
+		"glow_color": "#df9239",
 		"display": {
 			"offsets": {
 				"normal": {
-					"top": 8,
-					"left": 4
+					"top": 2,
+					"left": 8
 				},
 				"mini": {
 					"top": 4,
 					"left": 2
+				}
+			},
+			"textures": {
+				"normal": {
+					"width": 32,
+					"height": 32
+				},
+				"mini": {
+					"width": 16,
+					"height": 16
 				}
 			}
 		},
