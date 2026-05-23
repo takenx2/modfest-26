@@ -238,11 +238,11 @@
 		"files": {
 			"mods/berry-fantastic.pw.toml": {
 				"download": {
-					"hash": "cd5b0658b734c3b6f895e0ab352f4fd6954d170813c70c5b2ba1fcc1304fffea051dcef207e44dca0f67373872463c1f8a92b7b4d14206d94f133d1c20b33e2c",
+					"hash": "001b94c4b7159f9df78de838f7d06faa7465b808c3747558506ce1c1e1305f44a42def1035798063aff424acff8f40fae5e8bcaaf716cb666a7af7b06b0534ce",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/qhrq5l7x/versions/Vy5Qbjzd/berry-fantastic-0.1.1%2Bfabric-26.1.jar"
+					"url": "https://cdn.modrinth.com/data/qhrq5l7x/versions/oDK0qVYp/berry-fantastic-0.1.2%2Bfabric-26.1.jar"
 				},
-				"filename": "berry-fantastic-0.1.1+fabric-26.1.jar",
+				"filename": "berry-fantastic-0.1.2+fabric-26.1.jar",
 				"name": "Berry Fantastic",
 				"side": "both"
 			},
@@ -257,7 +257,7 @@
 				"side": "both"
 			}
 		},
-		"key": "a2c2e55de99eb8cc1c79f5693b0a5ee95df414e0b0fce44654c21d4b24546b4e"
+		"key": "238c09cc9d2fa2bf129c30e6a2fcdb9fbcf9be8546d348f79b623adc36e6e253"
 	},
 	"bloom-festal": {
 		"checks": {
@@ -382,21 +382,21 @@
 		"files": {
 			"mods/creeper-crush.pw.toml": {
 				"download": {
-					"hash": "469d618343b5f24b759e57a60d425a72e2a7dca3a607b71fc3993f8d990dacfaec67a8b6a7b47b95d641938a8ed2cf6f0949ae59d002b4099420daa04ec1e9a7",
+					"hash": "8a03c41a1a66debb147582f0970ab0905f6deca5acccde97ba5304c7a19439f22c9557c1bad98765f0e180558aa055088cabae159cf1a264dbac042f9bec4e72",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/6EQ8D192/versions/hMH3ewCi/creeper_crush-fabric-0.1.8-26.1.1-sgd.jar"
+					"url": "https://cdn.modrinth.com/data/6EQ8D192/versions/Ucyg7JzU/creeper_crush-fabric-0.1.9-26.1.1-sgd.jar"
 				},
-				"filename": "creeper_crush-fabric-0.1.8-26.1.1-sgd.jar",
+				"filename": "creeper_crush-fabric-0.1.9-26.1.1-sgd.jar",
 				"name": "I Have a Crush on a Creeper?!?",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "6a576d8975b705937c035e9b290dd0138fedd4ab106a54e238f37e343916dec96dbaeeef66578d5293be83e10c9d7a5b8be3aef93ae384d2b8fe7e52cdee5df2",
+					"hash": "47ffa18369260c88ea847f6694ccb431a5aa9051c64e8d361186a767bb762dd9fcfbf4742ac65505eb60862900a1a3f1490994e7435376607de811eab8be4461",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/q87Wssd1/fabric-api-0.148.2%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BLz7ETCw/fabric-api-0.149.1%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.148.2+26.1.2.jar",
+				"filename": "fabric-api-0.149.1+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
@@ -411,7 +411,7 @@
 				"side": "both"
 			}
 		},
-		"key": "edc038e8566f39e0054f14bc8a428d30e36d89ff84c70f02e4950cd3ff40edb0"
+		"key": "5028b6f3616ce62a883ff00cf9601068cade0cf19c472656ab0b01a1958884e6"
 	},
 	"dual-stance": {
 		"checks": {
