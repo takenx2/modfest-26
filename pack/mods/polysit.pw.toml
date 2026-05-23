@@ -1,6 +1,6 @@
 name = "Polysit"
 filename = "polysit-0.9.10.1+mc.26.1.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/G9eJHDO2/versions/5L0V6zal/polysit-0.9.10.1%2Bmc.26.1.2.jar"
