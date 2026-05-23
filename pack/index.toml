@@ -82,6 +82,9 @@ file = "config/music-moods.properties"
 file = "config/polymer/common.json"
 
 [[files]]
+file = "config/polysit.properties"
+
+[[files]]
 file = "config/roles.json"
 
 [[files]]
@@ -207,7 +210,7 @@ file = "mods/fabrictailor.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fireblanket-0.9.3+fabric-26.1.jar"
+file = "mods/fireblanket-0.9.4+fabric-26.1.jar"
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
@@ -283,6 +286,10 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/polysit.pw.toml"
 metafile = true
 
 [[files]]
