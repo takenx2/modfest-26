@@ -492,15 +492,6 @@ file = "resources/common/required/mf_music/pack.png"
 file = "resources/common/required/mf_shards/assets/modfest/lang/en_us.json"
 
 [[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/.bonus_1_front.png-autosave.kra"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/.bonus_2_front.png-autosave.kra"
-
-[[files]]
-file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/.bonus_3_front.png-autosave.kra"
-
-[[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/bonus_1_backing.png"
 
 [[files]]
@@ -582,6 +573,15 @@ file = "resources/common/required/mf_shards/data/scattered_shards/shard_type/typ
 file = "resources/common/required/mf_shards/pack.mcmeta"
 
 [[files]]
+file = "resources/common/required/monimi_charts/assets/modfest/sounds/music/machine_love-mono.ogg"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/modfest/sounds/music/machine_love.ogg"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/modfest/textures/cover/machine_love.png"
+
+[[files]]
 file = "resources/common/required/monimi_charts/assets/monimi/sounds/music/beneath_the_virtual_sky-mono.ogg"
 
 [[files]]
@@ -643,6 +643,9 @@ file = "resources/common/required/monimi_charts/assets/monimi_hololive/textures/
 
 [[files]]
 file = "resources/common/required/monimi_charts/assets/monimi_hololive/textures/cover/wind_up.png"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/modfest/charts/machine_love-normal.json"
 
 [[files]]
 file = "resources/common/required/monimi_charts/data/monimi/charts/beneath_the_virtual_sky-hard.json"
