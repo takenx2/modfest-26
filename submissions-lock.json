@@ -634,16 +634,16 @@
 		"files": {
 			"mods/hotdognalds.pw.toml": {
 				"download": {
-					"hash": "3dede55822c3044a840ad014ffeb2bcc6d2e2dad75f3d9eac980630b0a81b464efa079ebdd95e89fbce711d7186a870d9450ee0bf192b807c6f877ad8e21513f",
+					"hash": "352e9be994cdc2ea49c2d135257eef78c50c6a28538dcd8be9b4b2d5df8f5b261063903304e80877b92e2a534312783020132d4a917f8aad366ee9cc319ecde5",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/g0zHrDtk/versions/bFw2iDsG/hotdognalds-0.5.3%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/g0zHrDtk/versions/Gb0vur9M/hotdognalds-0.5.4%2B26.1.2.jar"
 				},
-				"filename": "hotdognalds-0.5.3+26.1.2.jar",
+				"filename": "hotdognalds-0.5.4+26.1.2.jar",
 				"name": "Hotdognald's",
 				"side": "both"
 			}
 		},
-		"key": "fb3cc42659e9e05fdd45157667b960d31568909dfc8f5f941d216a6d41b9c199"
+		"key": "79612ec1ef64532d00f8ff6df3503e4f8ac516760379840bc7b1abf06619a6b1"
 	},
 	"ikhemusek": {
 		"checks": {
