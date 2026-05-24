@@ -155,8 +155,8 @@
 	},
 	"attire-craft": {
 		"checks": {
-			"claimed": false,
-			"tested": false
+			"claimed": true,
+			"tested": true
 		},
 		"files": {
 			"mods/attire-craft.pw.toml": {
@@ -357,7 +357,7 @@
 	},
 	"combat-toggle": {
 		"checks": {
-			"claimed": false,
+			"claimed": true,
 			"tested": true
 		},
 		"files": {
@@ -952,16 +952,16 @@
 			},
 			"mods/meowdemic.pw.toml": {
 				"download": {
-					"hash": "94cedd60968a94a1f3d233408ae7dc7d360375388c4ed33ecb0e90900b3327f7bda62ac1fd40819c7d3b89673076b733b0ed08a194f47ce14ece06c72fd02506",
+					"hash": "5cc7c64339872f54ccdaf8e02dd39cda950e57e704d803c6464f5d211e69569e2cbbd22acc9e81fdd343b10f86ab73d6c62a5ca01349044c3c6284eaa90f84ce",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/yV8oVp1F/versions/vGjKknvh/meowdemic-1.1.8.jar"
+					"url": "https://cdn.modrinth.com/data/yV8oVp1F/versions/PlTskIb1/meowdemic-1.1.9.jar"
 				},
-				"filename": "meowdemic-1.1.8.jar",
+				"filename": "meowdemic-1.1.9.jar",
 				"name": "Meowdemic",
 				"side": "both"
 			}
 		},
-		"key": "4148b35385ce90ed367ad353cef9cf4491d7aa834fa73749912a80053685de5b"
+		"key": "ce4df6501b69fc9668dcb4b323743d30eafba0a13dea5278111276366cafef49"
 	},
 	"monday-night-mining": {
 		"checks": {
@@ -1398,8 +1398,8 @@
 	},
 	"under-the-cherry-trees": {
 		"checks": {
-			"claimed": false,
-			"tested": false
+			"claimed": true,
+			"tested": true
 		},
 		"files": {
 			"mods/fabric-api.pw.toml": {
