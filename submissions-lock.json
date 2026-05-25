@@ -286,11 +286,11 @@
 		"files": {
 			"mods/booyah.pw.toml": {
 				"download": {
-					"hash": "5b0dbae3c33ebeea56e30b4153d4465784a1b89c3a099116cfd8b58fd3398d1fab33142a340a89ef91cce96c600df9cbac63aa04b5dcf4652b451c427e2e1f7c",
+					"hash": "3ac58b317dbe282cb6c5e53d2d6e573e6d3d290405e28c74308726de56b1be9660134e9a2bfe8a9ca1eaf51515f0e5dc6352c5ade6110b795970307b4ef9d6c2",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/aKgA3BHj/versions/QbqtYXbk/booyah-1.0.3.jar"
+					"url": "https://cdn.modrinth.com/data/aKgA3BHj/versions/ccpPjy4h/booyah-1.0.4.jar"
 				},
-				"filename": "booyah-1.0.3.jar",
+				"filename": "booyah-1.0.4.jar",
 				"name": "Booyah!",
 				"side": "both"
 			},
@@ -305,7 +305,7 @@
 				"side": "both"
 			}
 		},
-		"key": "7fecdcf58c2e7d5f8935608856392f2a710880bce95c003a11d7c4f5453337c6"
+		"key": "6dc2e65749d6ef362024c149bc65237614e56b6d1decc58465df616fe93af07d"
 	},
 	"botanicmagic": {
 		"checks": {
@@ -1240,16 +1240,16 @@
 		"files": {
 			"mods/renmi.pw.toml": {
 				"download": {
-					"hash": "62b7051e373cec63199e659860a3bd8224016c307f8698e4077e13a576253d2db2f845c4a12a837319d686babc7f77b4170692a3ccd6f5dfc312d8fb9d9eb6ed",
+					"hash": "d0b7e2aec406dae2161df2aa0ef02aed1faacd6e35ab53e980cc7f4e6c2ee7df468d99ffceadfade28d0a114441436542950d3a3a889e20fd9891aa48162874b",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/WUrSmxSJ/versions/MdBFArA5/renmi-1.0.10-beta%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/WUrSmxSJ/versions/lDZ0n7Pn/renmi-1.0.11-beta%2B26.1.2.jar"
 				},
-				"filename": "renmi-1.0.10-beta+26.1.2.jar",
+				"filename": "renmi-1.0.11-beta+26.1.2.jar",
 				"name": "Ren'mi",
 				"side": "both"
 			}
 		},
-		"key": "b4720ef87da6712a9854c252e93e86d32b511959deea5e588c294833089b68f2"
+		"key": "6cdfcca87cf9208d146d0fc47007a841f20931dcc2eb8b59e8e967a8b1fe1fb7"
 	},
 	"scriboodle": {
 		"checks": {
