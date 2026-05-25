@@ -18,6 +18,7 @@
 		"minecraft:cake",
 		"#minecraft:candle_cakes",
 		"minecraft:dragon_egg",
-		"map_utils:variable_redstone_block"
+		"map_utils:variable_redstone_block",
+		"map_utils:triggerable_redstone_block"
 	]
 }
