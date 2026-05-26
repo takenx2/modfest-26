@@ -382,11 +382,11 @@
 		"files": {
 			"mods/creeper-crush.pw.toml": {
 				"download": {
-					"hash": "8a03c41a1a66debb147582f0970ab0905f6deca5acccde97ba5304c7a19439f22c9557c1bad98765f0e180558aa055088cabae159cf1a264dbac042f9bec4e72",
+					"hash": "d7d76c75b4a42cf4080cad4a08d6da9003458997e400c4ba79e69ae81ef0fd87058564b086e846356e9abcf695aa9d57a6448123053b754f3d7c01d6009efc1f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/6EQ8D192/versions/Ucyg7JzU/creeper_crush-fabric-0.1.9-26.1.1-sgd.jar"
+					"url": "https://cdn.modrinth.com/data/6EQ8D192/versions/IavjMmq6/creeper_crush-fabric-0.1.10-26.1.1-sgd.jar"
 				},
-				"filename": "creeper_crush-fabric-0.1.9-26.1.1-sgd.jar",
+				"filename": "creeper_crush-fabric-0.1.10-26.1.1-sgd.jar",
 				"name": "I Have a Crush on a Creeper?!?",
 				"side": "both"
 			},
@@ -411,7 +411,7 @@
 				"side": "both"
 			}
 		},
-		"key": "5028b6f3616ce62a883ff00cf9601068cade0cf19c472656ab0b01a1958884e6"
+		"key": "85758e1ca936a3ab2a5b6ab48125e9a8423583dfd475cfdc1f20afe4935999eb"
 	},
 	"dual-stance": {
 		"checks": {
@@ -576,26 +576,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "4e9d39150af43869f68b03e91c51618a0d0c34ec7bfd57b515a9031364d35e391985ca1e2349daaa8d6f8fc88e4b96cfa5793bb0f98932ce0b3683fe4a238ce4",
+					"hash": "47ffa18369260c88ea847f6694ccb431a5aa9051c64e8d361186a767bb762dd9fcfbf4742ac65505eb60862900a1a3f1490994e7435376607de811eab8be4461",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/KAvhN1it/fabric-api-0.148.0%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BLz7ETCw/fabric-api-0.149.1%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.148.0+26.1.2.jar",
+				"filename": "fabric-api-0.149.1+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/grappling-hooke.pw.toml": {
 				"download": {
-					"hash": "c2f2ec04d4c888454dae08db7242c677a9a7946de6698ff95293968dcc36fe67a786e49d2694fa66583ec51442cd588f64e228def39cd5f2a427347955adc2ff",
+					"hash": "1af35140ebaad9681d272558c5fb54eecd1ab0c0acc79cd4d2624fe7f6f1157ca3486c81ba323a78c36892c1958e8a39d07cd1e3b6e9a02fa8ae093926a9c608",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/QhUinAXx/versions/DcXhyDsj/grapplinghooke-1.2.0.jar"
+					"url": "https://cdn.modrinth.com/data/QhUinAXx/versions/izbTj6py/grapplinghooke-1.2.1.jar"
 				},
-				"filename": "grapplinghooke-1.2.0.jar",
+				"filename": "grapplinghooke-1.2.1.jar",
 				"name": "Grappling Hooke",
 				"side": "both"
 			}
 		},
-		"key": "6996a4d24a09e9b3adc0053e220d3ebb2c2320160885a6f499016d45e41cfe41"
+		"key": "c320267b14fcdffea9e914b0b450808c556208d1c4be6587245d613a546f7a7c"
 	},
 	"honeypots": {
 		"checks": {
@@ -1192,26 +1192,26 @@
 		"files": {
 			"mods/mmodding-library.pw.toml": {
 				"download": {
-					"hash": "3e35744884de658a99e8d2d491a07fa2ba5b5473522280fdbe0b81b77a8bee01bf9699a6dfe2148c019b008723bad61f7e29cfd73abfccc75955e3c8472f2ac4",
+					"hash": "82504ce6973b5c9db52058c9e4891a5a6ba3dd3cd595dcb946af53a3a373c2ea34fc1ba03350d38a2eead86b4cee52926b27f4a4b6ec3bcad8f15fcebd9df5ac",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/J3eDXLuX/versions/oRomabyb/mmodding_library-0.1.2-alpha%2B26.1.jar"
+					"url": "https://cdn.modrinth.com/data/J3eDXLuX/versions/M1qBgP9d/mmodding_library-0.2.1-alpha%2B26.1.jar"
 				},
-				"filename": "mmodding_library-0.1.2-alpha+26.1.jar",
+				"filename": "mmodding_library-0.2.1-alpha+26.1.jar",
 				"name": "MModding Library",
 				"side": "both"
 			},
 			"mods/psithurism.pw.toml": {
 				"download": {
-					"hash": "6f03736d218789cccbc54ba999afa62c3fe47b26e8c850ffce12175b4dd40d2a817a1f6e6a84bbe5d50cef13d842ec930648e3e83926210eb9fb2711604eebb8",
+					"hash": "6af2819faecf331216c0c178f4b198c5e3303dbb5df12bc7bdb3794d4bc35759900c234f4b1325a3e6dce394edc860a4931488124853cba2b5b9e9d5f3db36ae",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/3wdNAIW9/versions/bFZ7Usht/psithurism-1.0.4%2B26.1.1.jar"
+					"url": "https://cdn.modrinth.com/data/3wdNAIW9/versions/luTQsDwY/psithurism-1.0.5%2B26.1.1.jar"
 				},
-				"filename": "psithurism-1.0.4+26.1.1.jar",
+				"filename": "psithurism-1.0.5+26.1.1.jar",
 				"name": "Psithurism",
 				"side": "both"
 			}
 		},
-		"key": "9126a72d23c97688ed75be57e86800890aae4331ddc7d45cea18891849a62dbf"
+		"key": "2039cd6137eeb54a30cfa485eaeead87f53dbc5391e8dcd3f85b803f50138dce"
 	},
 	"reliable-gliders": {
 		"checks": {
@@ -1240,16 +1240,16 @@
 		"files": {
 			"mods/renmi.pw.toml": {
 				"download": {
-					"hash": "d0b7e2aec406dae2161df2aa0ef02aed1faacd6e35ab53e980cc7f4e6c2ee7df468d99ffceadfade28d0a114441436542950d3a3a889e20fd9891aa48162874b",
+					"hash": "36b53524a89c91b05cfcec0cf09fe275e66587b47335891fc4bcfa294ec343b3cd52ad4b9138beea14b8871b5505cd88b56cc83fa6f575eb03119075f923490f",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/WUrSmxSJ/versions/lDZ0n7Pn/renmi-1.0.11-beta%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/WUrSmxSJ/versions/GwNRC1HK/renmi-1.0.12-beta%2B26.1.2.jar"
 				},
-				"filename": "renmi-1.0.11-beta+26.1.2.jar",
+				"filename": "renmi-1.0.12-beta+26.1.2.jar",
 				"name": "Ren'mi",
 				"side": "both"
 			}
 		},
-		"key": "6cdfcca87cf9208d146d0fc47007a841f20931dcc2eb8b59e8e967a8b1fe1fb7"
+		"key": "9cadbe5f01b0435b9bd593f9bcb4192bcb36ad0b76cde958b9a0da192ea1f631"
 	},
 	"scriboodle": {
 		"checks": {
@@ -1269,16 +1269,16 @@
 			},
 			"mods/scriboodle.pw.toml": {
 				"download": {
-					"hash": "7db8f0e3264f75216e21295f451cb088430d92a25d913a4dd4975817772d1095976637f67d0fe6723a47105c5919ac72e8d15b858e17b9b9630f8ccfd0950997",
+					"hash": "98c6febab18a103849da988c62501269e370db06acf5cccc59336dba0d11664f24b1a2efa4cf43640a2da5562a3b8934613e4d303c53c8a241a9fece32f909d3",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/1KTbgBgQ/versions/mB4mCo1y/scriboodle-0.2.9.jar"
+					"url": "https://cdn.modrinth.com/data/1KTbgBgQ/versions/uuxymJnS/scriboodle-0.2.10.jar"
 				},
-				"filename": "scriboodle-0.2.9.jar",
+				"filename": "scriboodle-0.2.10.jar",
 				"name": "Scriboodle",
 				"side": "both"
 			}
 		},
-		"key": "ab0e64740862717ac8bb059379f394e5375b21b269723e18b74f28e600f6d44b"
+		"key": "2b16fe05e638cce42babdc2c7e061e8a783b2331420e4d324b6952366d49be51"
 	},
 	"slime-time": {
 		"checks": {
