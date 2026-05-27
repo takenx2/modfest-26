@@ -94,26 +94,26 @@
 		"files": {
 			"mods/archery-gimmicks.pw.toml": {
 				"download": {
-					"hash": "3b6bfe7946b88dc2782c55acbf60346fdf4715c44942d4bf7986ea3a45c605d99cd115cefe99b3154a23338b084ee87a603c289069a4e20af50462f5190f67db",
+					"hash": "b5e30b9e60221cb530314824d4514a101b9c5c10dab3f3bec76f357f7b4e2bd1ef47eee0414b9acb71fa2716cafbb299765c06c427513bc9bf120a91d4e6e402",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/mhMyROQo/versions/TbKrms1O/archery-gimmicks-1.0.2%2B26.1.jar"
+					"url": "https://cdn.modrinth.com/data/mhMyROQo/versions/U4jv0hWx/archery-gimmicks-1.0.3%2B26.1.jar"
 				},
-				"filename": "archery-gimmicks-1.0.2+26.1.jar",
+				"filename": "archery-gimmicks-1.0.3+26.1.jar",
 				"name": "Archery Gimmicks",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "6a576d8975b705937c035e9b290dd0138fedd4ab106a54e238f37e343916dec96dbaeeef66578d5293be83e10c9d7a5b8be3aef93ae384d2b8fe7e52cdee5df2",
+					"hash": "47ffa18369260c88ea847f6694ccb431a5aa9051c64e8d361186a767bb762dd9fcfbf4742ac65505eb60862900a1a3f1490994e7435376607de811eab8be4461",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/q87Wssd1/fabric-api-0.148.2%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BLz7ETCw/fabric-api-0.149.1%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.148.2+26.1.2.jar",
+				"filename": "fabric-api-0.149.1+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "3cab03ab866d8cd6fb3a1f92d0024dd2d0c6383cc4f92e339491f3340495f038"
+		"key": "b1ea9c1363e3aa14f71aa990ea594d03f4f0eaa7d16c4c22290ceafb8a6c62c6"
 	},
 	"assorted-appetizers": {
 		"checks": {
@@ -730,26 +730,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "4e9d39150af43869f68b03e91c51618a0d0c34ec7bfd57b515a9031364d35e391985ca1e2349daaa8d6f8fc88e4b96cfa5793bb0f98932ce0b3683fe4a238ce4",
+					"hash": "47ffa18369260c88ea847f6694ccb431a5aa9051c64e8d361186a767bb762dd9fcfbf4742ac65505eb60862900a1a3f1490994e7435376607de811eab8be4461",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/KAvhN1it/fabric-api-0.148.0%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/BLz7ETCw/fabric-api-0.149.1%2B26.1.2.jar"
 				},
-				"filename": "fabric-api-0.148.0+26.1.2.jar",
+				"filename": "fabric-api-0.149.1+26.1.2.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/kibss.pw.toml": {
 				"download": {
-					"hash": "91c12f36b67037428401ce9fcc3a8e97c242b446bb30366fbad1a5a5faf09e03a33457fcb99e4eb94c105ebef87f06bead5a151ab6743552ccc5f3127c85fc47",
+					"hash": "7af7333acef9cb6cf0afa23521d3376919e557429aa9791d3519a82a2d9cd01e907c145f63eb9b5bb6efcf956f005cb4f2da9f98629ad1156d70141b69d8e3ec",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P8ceGr8k/versions/3yPwQHiZ/kibss-1.1.0.jar"
+					"url": "https://cdn.modrinth.com/data/P8ceGr8k/versions/ZKYXJRva/kibss-1.1.1.jar"
 				},
-				"filename": "kibss-1.1.0.jar",
+				"filename": "kibss-1.1.1.jar",
 				"name": "Kibss",
 				"side": "both"
 			}
 		},
-		"key": "92bd349aa1e615fbf2352582e3d05265a2f95567d90901d014baba48fa5d6f41"
+		"key": "a6c7320439d13f88adf53b0d39c6fa0a69b809c7df66f4518d2bc467b8115c7b"
 	},
 	"kurasu": {
 		"checks": {
@@ -844,28 +844,18 @@
 			"tested": true
 		},
 		"files": {
-			"mods/fabric-api.pw.toml": {
-				"download": {
-					"hash": "c7589aa4deeaa6dbefc13247eb5e0d4e257c152ef039937f54d6ee28282d3c84ccc96483d9c3950286fed6e3dcc546709898c8a446ab143d1663bc7d49649c54",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Sy2Bq7Xc/fabric-api-0.149.0%2B26.1.2.jar"
-				},
-				"filename": "fabric-api-0.149.0+26.1.2.jar",
-				"name": "Fabric API",
-				"side": "both"
-			},
 			"mods/lockkey.pw.toml": {
 				"download": {
-					"hash": "e9a4cd84dffdea429e11daf71451cc8eda3d46f10e4ab53f8857eb3f8241b66b0f4612620ef77e1b4168d02951cc136dcc3df85b8db07ac726a4cbbfa8bfc322",
+					"hash": "f850d253fa3fcb0b9f8a7125e60ddbe3b66038c1f82720afad9e747c72741d92d21029d36776bf42cf35eecf3d47fc4a5f9840a43fa738df29e9ed3073b304a7",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/8Cx7nAtb/versions/iePeLKPE/lockkey-0.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/8Cx7nAtb/versions/jJ3QYWzv/lockkey-0.1.3.jar"
 				},
-				"filename": "lockkey-0.1.2.jar",
-				"name": "Lock And Key",
+				"filename": "lockkey-0.1.3.jar",
+				"name": "Lockkey",
 				"side": "both"
 			}
 		},
-		"key": "69c73a82d603a413487f7c5c9b11ae4e21f9ba8e50d2fd7e2dbe8b0a531bdc91"
+		"key": "3491e6107ca64e4a2890999f2c3ac54acbecdd9ab99373c07a7b9d655d9a5356"
 	},
 	"lovely-bites": {
 		"checks": {
@@ -971,16 +961,16 @@
 		"files": {
 			"mods/monday-night-mining.pw.toml": {
 				"download": {
-					"hash": "3928388444a3beda6021dc280d2e3916ebd34dcaa5b8a38781aeb565b0dd54d9d57dbe5c1bd8ce0405c033785d9a8f07c49ab35941929d83ed0ac5b3c8381d71",
+					"hash": "61109036531b9a010aa27834d2f6d29785b206f5135d8bd94001d121587e5d601964db9e7f48191f4e43e9668ca9c0d19498d9e9904ecdf4bfceb69f325c2de2",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/GZIAhmWQ/versions/gJB6KcBL/monimi-1.1.4%2B26.1.2.jar"
+					"url": "https://cdn.modrinth.com/data/GZIAhmWQ/versions/Om2wCjnl/monimi-1.2.0%2B26.1.2.jar"
 				},
-				"filename": "monimi-1.1.4+26.1.2.jar",
+				"filename": "monimi-1.2.0+26.1.2.jar",
 				"name": "Monday Night Minin'",
 				"side": "both"
 			}
 		},
-		"key": "32996cfee5a6e7093a7f71f938a870012a8cfd074ce3942ecb6872c9069bc804"
+		"key": "ad82bd68fe2c3f6779bdca2b5522681bbd7dd01a537f962291a1fb518afa293d"
 	},
 	"mugann": {
 		"checks": {
