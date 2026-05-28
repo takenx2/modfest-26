@@ -12,7 +12,7 @@ credits_text = "Modpack Credits"
 awardLimit = 30
 # The closing date, as an ISO local date time - or an empty string for none
 # default: 2024-12-16T12:00:00
-closingTime = "2026-06-09T12:00:00"
+closingTime = "2026-06-16T12:00:00"
 
 # Where to add a voting button, anchored to existing button translation keys
 [voting_button]

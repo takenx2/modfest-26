@@ -1,3 +1,552 @@
 [
-
+	{
+		"id": "street-art",
+		"mod_id": "street_art",
+		"name": "Street Art",
+		"description": "Spray paint any surface while rollerblading around",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "n0uMUjJI"
+		}
+	},
+	{
+		"id": "creeper-crush",
+		"mod_id": "creeper_crush",
+		"name": "I Have a Crush on a Creeper?!?",
+		"description": "A dating sim-themed entrant for ModFest 26",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "6EQ8D192"
+		}
+	},
+	{
+		"id": "kibss",
+		"mod_id": "kibss",
+		"name": "Kibss",
+		"description": "An affection mod. Give affection to your friends <3",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "P8ceGr8k"
+		}
+	},
+	{
+		"id": "berry-fantastic",
+		"mod_id": "berry_fantastic",
+		"name": "Berry Fantastic",
+		"description": "A simple mod that adds pies (with cake like features).\n\nMade for Modfest 2026.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "qhrq5l7x"
+		}
+	},
+	{
+		"id": "japes",
+		"mod_id": "japes",
+		"name": "Japes!",
+		"description": "Adds a few harmless and nearly-harmless schoolyard tricks.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "kdqGQMXW"
+		}
+	},
+	{
+		"id": "dual-stance",
+		"mod_id": "dual_stance",
+		"name": "Dual Stance",
+		"description": "Pair up with your allies to boost your bond!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "z6Esg6rK"
+		}
+	},
+	{
+		"id": "lovely-bites",
+		"mod_id": "lovely_bites",
+		"name": "Lovely Bites",
+		"description": "Feed your friends! Adds the ability to feed food in your offhand to other players, as well as a small addition in Strawberries and Chocolate.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "D7D5bEMP"
+		}
+	},
+	{
+		"id": "attire-craft",
+		"mod_id": "attirecraft",
+		"name": "AttireCraft",
+		"description": "Some clothing items, and they can be nested",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "DakZns4T"
+		}
+	},
+	{
+		"id": "psithurism",
+		"mod_id": "psithurism",
+		"name": "Psithurism",
+		"description": "Bring Japanese culture into your home with new deco blocks, new food, traditional cosmetics and much more!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "3wdNAIW9"
+		}
+	},
+	{
+		"id": "off-the-shelf",
+		"mod_id": "offtheshelf",
+		"name": "Off The Shelf",
+		"description": "A mod about shelving with no shortage of block types",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "ik7wleMZ"
+		}
+	},
+	{
+		"id": "peace-lily",
+		"mod_id": "peace_lily",
+		"name": "Peace Lily",
+		"description": "Decorative flowers for your world!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "1bvUYnVb"
+		}
+	},
+	{
+		"id": "grappling-hooke",
+		"mod_id": "grapplinghooke",
+		"name": "Grappling Hooke",
+		"description": "Springy! (Grappling hook but it behaves like a spring)",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "QhUinAXx"
+		}
+	},
+	{
+		"id": "menko",
+		"mod_id": "menko",
+		"name": "Menko",
+		"description": "Adds the Japanese game, Menko, in Minecraft!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "psvOhkSX"
+		}
+	},
+	{
+		"id": "kawaii",
+		"mod_id": "kawaii",
+		"name": "Kawaii",
+		"description": "Adds a toast and Bombon boxes!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "J7GwounQ"
+		}
+	},
+	{
+		"id": "booyah",
+		"mod_id": "booyah",
+		"name": "Booyah!",
+		"description": "An amalgamation of things about popping balloons with an overly cool sword.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "aKgA3BHj"
+		}
+	},
+	{
+		"id": "lights-camera-action",
+		"mod_id": "lights-camera-action",
+		"name": "Lights, Camera, Action!",
+		"description": "A simple mod created for ModFest 26: Animation, Affection, Academia! which brings masks to minecraft",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "q5XtEvi2"
+		}
+	},
+	{
+		"id": "ensemble-mod",
+		"mod_id": "ensemble",
+		"name": "Ensemble",
+		"description": "Play music with your friends!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "UXxMkGEw"
+		}
+	},
+	{
+		"id": "bakingsoda",
+		"mod_id": "bakingsoda",
+		"name": "A Mod About Baking Soda",
+		"description": "Modfest 26 entry that adds baking soda volcanoes and other things in that area",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "rh6YC5O1"
+		}
+	},
+	{
+		"id": "kurasu",
+		"mod_id": "kurasu",
+		"name": "Kurasu",
+		"description": "Adds lockers (you can place stuff in), classroom furniture, and more!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "ybFDR5BW"
+		}
+	},
+	{
+		"id": "combat-toggle",
+		"mod_id": "ctoggle",
+		"name": "Combat Toggle",
+		"description": "Allows players to toggle on and off their PvP-allowed status.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "4wdDIoBJ"
+		}
+	},
+	{
+		"id": "productive-cherry-trees",
+		"mod_id": "productive_cherry_trees",
+		"name": "Productive Cherry Trees",
+		"description": "Collect resources from falling leafs! Made for 2026 ModFest.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "rPggdI3G"
+		}
+	},
+	{
+		"id": "etaerio-eaterie",
+		"mod_id": "etaerio-eaterie",
+		"name": "Etaerio Eaterie",
+		"description": "Adds some food items to the game",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "Mz1FAA72"
+		}
+	},
+	{
+		"id": "enamel",
+		"mod_id": "enamel",
+		"name": "Enamel",
+		"description": "Hollow Knight/Paper Mario style Charm system, It's pin themed!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "Th6rPGdV"
+		}
+	},
+	{
+		"id": "monday-night-mining",
+		"mod_id": "monimi",
+		"name": "Monday Night Minin'",
+		"description": "A Friday Night Funkin' inspired rhythm versus mod",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "GZIAhmWQ"
+		}
+	},
+	{
+		"id": "ikhemusek",
+		"mod_id": "ikhemusek",
+		"name": "Ikhemusek",
+		"description": "Parry Everything",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "IAkmvVSK"
+		}
+	},
+	{
+		"id": "syncope-synecdoche",
+		"mod_id": "syncope-synecdoche",
+		"name": "Syncope Synecdoche",
+		"description": "A faint parallel. A little minescene mod for ModFest '26.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "3q979Cd3"
+		}
+	},
+	{
+		"id": "lockkey",
+		"mod_id": "lockkey",
+		"name": "Lock And Key",
+		"description": "A Fabric Mod which adds locking mechanics to Blocks, Entities and other things",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "8Cx7nAtb"
+		}
+	},
+	{
+		"id": "voidstain-hypoidol",
+		"mod_id": "voidstain_hypoidol",
+		"name": "Voidstain Hypoidol",
+		"description": "A mod that adds 2-dimensional painting-creatures, and the ability to enter their homes.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "xVavkZzR"
+		}
+	},
+	{
+		"id": "renmi",
+		"mod_id": "renmi",
+		"name": "Ren'mi",
+		"description": "Visual novel scripting engine via Ink script",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "WUrSmxSJ"
+		}
+	},
+	{
+		"id": "bloom-festal",
+		"mod_id": "bloom_festal",
+		"name": "Bloom Festal",
+		"description": "Quirky weapons and healing staves to spice up combat!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "xf63Yoa7"
+		}
+	},
+	{
+		"id": "archery-gimmicks",
+		"mod_id": "archery_gimmicks",
+		"name": "Archery Gimmicks",
+		"description": "Adds a small handful of gimmick arrows, as well as a couple basic bow variants and a bow enchantment.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "mhMyROQo"
+		}
+	},
+	{
+		"id": "honeypots",
+		"mod_id": "honeypots",
+		"name": "HoneyPots",
+		"description": "Honey potions, with effects derived from the flowers pollinated to make it",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "Nd9XDQtQ"
+		}
+	},
+	{
+		"id": "starbond",
+		"mod_id": "starbond",
+		"name": "Starbond",
+		"description": "Grow stronger, together. Made for Modfest 26.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "ZBWgziRM"
+		}
+	},
+	{
+		"id": "batoru",
+		"mod_id": "batoru",
+		"name": "Batoru Academia",
+		"description": "New combat related features like new weapons and a spell system inspired by Battle Academia",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "4hav09w1"
+		}
+	},
+	{
+		"id": "advanced-classroom-furniture",
+		"mod_id": "classroomfurniture",
+		"name": "Advanced Classroom Furniture",
+		"description": "Desks and chairs that you can knock around and move - experimental physics mod",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "2B2ITxoC"
+		}
+	},
+	{
+		"id": "hotdognalds",
+		"mod_id": "hotdognalds",
+		"name": "Hotdognald's",
+		"description": "The wurst mod - Everything you need to run your own hotdog joint!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "g0zHrDtk"
+		}
+	},
+	{
+		"id": "scriboodle",
+		"mod_id": "scriboodle",
+		"name": "Scriboodle",
+		"description": "Scribble and draw on books and paper",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "1KTbgBgQ"
+		}
+	},
+	{
+		"id": "botanicmagic",
+		"mod_id": "botanicmagic",
+		"name": "Botanic Magic",
+		"description": "A Minecraft mod made for Modfest 26 that adds mystical flowers that can be extracted to do magic",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "ZToiHgit"
+		}
+	},
+	{
+		"id": "omikuji",
+		"mod_id": "omikuji",
+		"name": "omikuji",
+		"description": "Adds omikuji, fortunes given out for offerings at shrines and temples in Japan - with unpredictable effects!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "2ysvAiO2"
+		}
+	},
+	{
+		"id": "astraglossa",
+		"mod_id": "astraglossa",
+		"name": "astraglossa",
+		"description": "Adds a tablet for very rudimentary transliteration intended for conlangs - supplementary learning material only!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "1yOi1X5j"
+		}
+	},
+	{
+		"id": "potion-of-caring",
+		"mod_id": "potion_of_caring",
+		"name": "Potion of Caring",
+		"description": "Adds a new Potion that prevents hostility, and brings mobs closer together.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "HZkf0ydf"
+		}
+	},
+	{
+		"id": "reliable-gliders",
+		"mod_id": "reliable_gliders",
+		"name": "Reliable Gliders",
+		"description": "A mod that adds a simple, immersive, and balanced Glider to the game!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "pVIWsXir"
+		}
+	},
+	{
+		"id": "one-button-doorbells",
+		"mod_id": "one_button_doorbells",
+		"name": "One Button Doorbells",
+		"description": "A project that seeks to add doorbells that exist within one block.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "vr052JBC"
+		}
+	},
+	{
+		"id": "magical-allayship",
+		"mod_id": "magical-allayship",
+		"name": "Magical Allayship",
+		"description": "This mod adds a magical charm that'll help you protect your village and friends!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "n49unES0"
+		}
+	},
+	{
+		"id": "absurdly-amazing-alloys",
+		"mod_id": "absurd_alloys",
+		"name": "Absurdly Amazing Alloys",
+		"description": "A mod that adds a few metals (and a few gems!) to your world. Yet another material mod. Made for ModFest 26!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "XzFtgXMa"
+		}
+	},
+	{
+		"id": "flowers-galore",
+		"mod_id": "flowers-galore",
+		"name": "Flowers Galore!",
+		"description": "Adds animal crossing like flower breeding",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "5Tp9paFi"
+		}
+	},
+	{
+		"id": "slime-time",
+		"mod_id": "slime_time",
+		"name": "Slime Time",
+		"description": "Bounce around with Slime Boots, throwable Slime Balls, Slime Buckets, and more - powered by a backport of the Bounciness attribute.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "RRsJmoGM"
+		}
+	},
+	{
+		"id": "chalkboard",
+		"mod_id": "chalkboard",
+		"name": "Chalkboard",
+		"description": "Adds a chalkboard block and any color chalks",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "Azgc1ZEh"
+		}
+	},
+	{
+		"id": "mugann",
+		"mod_id": "mugann",
+		"name": "Mugann",
+		"description": "Dark academic blocks to suit your sinister studies",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "9WfB1ZDW"
+		}
+	},
+	{
+		"id": "letters-of-effection",
+		"mod_id": "loe",
+		"name": "Letters Of Effection",
+		"description": "Made for ModFest 26, a mod adding in Letters to Minecraft acting like smaller Book and Quills (Very Unfinished)",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "3lmd1o0a"
+		}
+	},
+	{
+		"id": "arbitration",
+		"mod_id": "arbitration",
+		"name": "Arbitration",
+		"description": "Adds something from a certain someone. (Made for modfest 26)",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "xSJDsTRj"
+		}
+	},
+	{
+		"id": "assorted-appetizers",
+		"mod_id": "appetizers",
+		"name": "Assorted Appetizers",
+		"description": "Various assorted foodstuffs... not all of which, admittedly, are appetizers.",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "cC2HeVYB"
+		}
+	},
+	{
+		"id": "meowdemic",
+		"mod_id": "meowdemic",
+		"name": "Meowdemic",
+		"description": "Meow? Meow! There's a disease going around which makes you meow like a cat...",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "yV8oVp1F"
+		}
+	},
+	{
+		"id": "under-the-cherry-trees",
+		"mod_id": "utct",
+		"name": "Under The Cherry Trees",
+		"description": "Adds red version of cherry trees, branches and tree hollow",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "wRrwe0yB"
+		}
+	},
+	{
+		"id": "petsful",
+		"mod_id": "petsful",
+		"name": "petsful",
+		"description": "player petting mod, completely client-sided!",
+		"platform": {
+			"type": "modrinth",
+			"project_id": "QH92Gl6o"
+		}
+	}
 ]
