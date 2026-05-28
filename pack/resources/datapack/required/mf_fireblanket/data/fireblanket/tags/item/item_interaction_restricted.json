@@ -2,7 +2,6 @@
 	"values": [
 		"minecraft:shears",
 		"minecraft:bucket",
-		"minecraft:water_bucket",
-		"minecraft:wind_charge"
+		"minecraft:water_bucket"
 	]
 }
