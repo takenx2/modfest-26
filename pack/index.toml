@@ -210,7 +210,7 @@ file = "mods/fabrictailor.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fireblanket-0.9.5+fabric-26.1.jar"
+file = "mods/fireblanket-0.9.6+fabric-26.1.jar"
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
