@@ -210,7 +210,7 @@ file = "mods/fabrictailor.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fireblanket-0.9.4+fabric-26.1.jar"
+file = "mods/fireblanket-0.9.5+fabric-26.1.jar"
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
@@ -645,6 +645,24 @@ file = "resources/common/required/monimi_charts/assets/monimi_hololive/textures/
 file = "resources/common/required/monimi_charts/assets/monimi_hololive/textures/cover/wind_up.png"
 
 [[files]]
+file = "resources/common/required/monimi_charts/assets/monimi_niko/sounds/music/the_rest-mono.ogg"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi_niko/sounds/music/the_rest.ogg"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi_niko/textures/cover/the_rest.png"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi_zewei/sounds/music/daenaf-mono.ogg"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi_zewei/sounds/music/daenaf.ogg"
+
+[[files]]
+file = "resources/common/required/monimi_charts/assets/monimi_zewei/textures/cover/daenaf.png"
+
+[[files]]
 file = "resources/common/required/monimi_charts/data/modfest/charts/machine_love-normal.json"
 
 [[files]]
@@ -676,6 +694,12 @@ file = "resources/common/required/monimi_charts/data/monimi_hololive/charts/tako
 
 [[files]]
 file = "resources/common/required/monimi_charts/data/monimi_hololive/charts/wind_up.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi_niko/charts/the_rest.json"
+
+[[files]]
+file = "resources/common/required/monimi_charts/data/monimi_zewei/charts/daenaf.json"
 
 [[files]]
 file = "resources/common/required/monimi_charts/pack.mcmeta"
