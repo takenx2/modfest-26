@@ -8,25 +8,31 @@
 					{
 						"title": "Soundtrack Mastering / Lead",
 						"names": [
-
+							"Nulb"
 						]
 					},
 					{
 						"title": "Soundtrack Artist",
 						"names": [
-
+							"Aethyus",
+							"Nulb",
+							"lynndova",
+							"Superkat32",
+							"Jaevy",
+							"soileH"
 						]
 					},
 					{
 						"title": "Texture Artist",
 						"names": [
-
+							"keyberries"
 						]
 					},
 					{
 						"title": "Branding Artist",
 						"names": [
-
+							"Chai",
+							"Jaevy"
 						]
 					}
 				]
@@ -37,13 +43,19 @@
 					{
 						"title": "Lead Architect",
 						"names": [
-
+							"keyberries"
 						]
 					},
 					{
 						"title": "World Builder",
 						"names": [
 
+						]
+					},
+					{
+						"title": "World Painter",
+						"names": [
+							"Phanastrae"
 						]
 					}
 				]
@@ -73,7 +85,6 @@
 					{
 						"title": "Utils Developer",
 						"names": [
-
 						]
 					}
 				]
@@ -117,9 +128,361 @@
 		"section": "Jam & Showcase Participants",
 		"disciplines": [
 			{
-				"discipline": "Modding Teams",
+				"discipline": "Showcase Teams",
 				"titles": [
-
+					{
+						"title": "A Mod About Baking Soda",
+						"names": [
+							"Acrogenous"
+						]
+					},
+					{
+						"title": "Absurdly Amazing Alloys",
+						"names": [
+							"Erisatis Alterna",
+							"Hstar747"
+						]
+					},
+					{
+						"title": "Advanced Classroom Furniture",
+						"names": [
+							"FoundationGames"
+						]
+					},
+					{
+						"title": "Arbitration",
+						"names": [
+							"Horizon"
+						]
+					},
+					{
+						"title": "Archery Gimmicks",
+						"names": [
+							"iridith"
+						]
+					},
+					{
+						"title": "Assorted Appetizers",
+						"names": [
+							"CYANO★FLOWER"
+						]
+					},
+					{
+						"title": "astraglossa",
+						"names": [
+							"AquaAdAstra"
+						]
+					},
+					{
+						"title": "AttireCraft",
+						"names": [
+							"Reoseah"
+						]
+					},
+					{
+						"title": "Batoru Academia",
+						"names": [
+							"Nutties"
+						]
+					},
+					{
+						"title": "Berry Fantastic",
+						"names": [
+							"Yum muy"
+						]
+					},
+					{
+						"title": "Bloom Festal",
+						"names": [
+							"jaevy"
+						]
+					},
+					{
+						"title": "Booyah!",
+						"names": [
+							"Superkat32"
+						]
+					},
+					{
+						"title": "Botanic Magic",
+						"names": [
+							"Regular Ben",
+							"Howluma"
+						]
+					},
+					{
+						"title": "Chalkboard",
+						"names": [
+							"TGdoesCode"
+						]
+					},
+					{
+						"title": "Combat Toggle",
+						"names": [
+							"CYANO★FLOWER"
+						]
+					},
+					{
+						"title": "Dual Stance",
+						"names": [
+							"mintynoura",
+							"Tau",
+							"jaevy"
+						]
+					},
+					{
+						"title": "Enamel",
+						"names": [
+							"giggabyte",
+							"Jackwastakenx2"
+						]
+					},
+					{
+						"title": "Ensemble",
+						"names": [
+							"MyNamesRaph"
+						]
+					},
+					{
+						"title": "Etaerio Eaterie",
+						"names": [
+							"+merlan #flirora"
+						]
+					},
+					{
+						"title": "Flowers Galore!",
+						"names": [
+							"Bee"
+						]
+					},
+					{
+						"title": "Grappling Hooke",
+						"names": [
+							"chromonym"
+						]
+					},
+					{
+						"title": "HoneyPots",
+						"names": [
+							"chromonym",
+							"niko"
+						]
+					},
+					{
+						"title": "Hotdognald's",
+						"names": [
+							"chililisoup"
+						]
+					},
+					{
+						"title": "I Have a Crush on a Creeper?!?",
+						"names": [
+							"blur"
+						]
+					},
+					{
+						"title": "Ikhemusek",
+						"names": [
+							"hama",
+							"keyberries"
+						]
+					},
+					{
+						"title": "Japes!",
+						"names": [
+							"Sisby folk"
+						]
+					},
+					{
+						"title": "Kawaii",
+						"names": [
+							"Azura Sato Nishio"
+						]
+					},
+					{
+						"title": "Kibss",
+						"names": [
+							"TheEpicBlock"
+						]
+					},
+					{
+						"title": "Kurasu",
+						"names": [
+							"Dooji"
+						]
+					},
+					{
+						"title": "Letters Of Effection",
+						"names": [
+							"TheFluffycart55"
+						]
+					},
+					{
+						"title": "Lights, Camera, Action!",
+						"names": [
+							"VolcanYT"
+						]
+					},
+					{
+						"title": "Lock And Key",
+						"names": [
+							"ShiroJR"
+						]
+					},
+					{
+						"title": "Lovely Bites",
+						"names": [
+							"TheBlindBandit6"
+						]
+					},
+					{
+						"title": "Magical Allayship",
+						"names": [
+							"anawesomguy",
+							"Dooji",
+							"Apple"
+						]
+					},
+					{
+						"title": "Menko",
+						"names": [
+							"Dooji"
+						]
+					},
+					{
+						"title": "Meowdemic",
+						"names": [
+							"macbrayne"
+						]
+					},
+					{
+						"title": "Monday Night Minin'",
+						"names": [
+							"Chai",
+							"Sammy"
+						]
+					},
+					{
+						"title": "Mugann",
+						"names": [
+							"hama"
+						]
+					},
+					{
+						"title": "Off The Shelf",
+						"names": [
+							"ADInfinity59"
+						]
+					},
+					{
+						"title": "omikuji",
+						"names": [
+							"GardenSystem"
+						]
+					},
+					{
+						"title": "One Button Doorbells",
+						"names": [
+							"Ferbmicah",
+							"jaevy"
+						]
+					},
+					{
+						"title": "Peace Lily",
+						"names": [
+							"jaevy"
+						]
+					},
+					{
+						"title": "petsful",
+						"names": [
+							"chromonym"
+						]
+					},
+					{
+						"title": "Potion of Caring",
+						"names": [
+							"dannytaylor"
+						]
+					},
+					{
+						"title": "Productive Cherry Trees",
+						"names": [
+							"ommie"
+						]
+					},
+					{
+						"title": "Psithurism",
+						"names": [
+							"Aethyus",
+							"Aeramisu - Lycorian",
+							"Mega",
+							"Neokys"
+						]
+					},
+					{
+						"title": "Reliable Gliders",
+						"names": [
+							"Evan",
+							"cassiancc"
+						]
+					},
+					{
+						"title": "Ren'mi",
+						"names": [
+							"hama",
+							"keyberries",
+							"jaevy",
+							"CyborgPigeon",
+							"Chai"
+						]
+					},
+					{
+						"title": "Scriboodle",
+						"names": [
+							"Tomate0613"
+						]
+					},
+					{
+						"title": "Slime Time",
+						"names": [
+							"cassiancc"
+						]
+					},
+					{
+						"title": "Starbond",
+						"names": [
+							"BigCrazy"
+						]
+					},
+					{
+						"title": "Street Art",
+						"names": [
+							"Cyvack",
+							"maybe_madeline",
+							"Athena"
+						]
+					},
+					{
+						"title": "Syncope Synecdoche",
+						"names": [
+							"Nulb",
+							"Sylv",
+							"Kilip1000"
+						]
+					},
+					{
+						"title": "Under The Cherry Trees",
+						"names": [
+							"Reoseah"
+						]
+					},
+					{
+						"title": "Voidstain Hypoidol",
+						"names": [
+							"Phanastrae"
+						]
+					}
 				]
 			}
 		]
@@ -140,12 +503,6 @@
 						"title": "Torch-Passer",
 						"names": [
 							"acikek"
-						]
-					},
-					{
-						"title": "Imagination reifier",
-						"names": [
-							"iridith"
 						]
 					},
 					{
@@ -209,9 +566,21 @@
 						]
 					},
 					{
+						"title": "Imagination reifier",
+						"names": [
+							"iridith"
+						]
+					},
+					{
 						"title": "Creative double agent",
 						"names": [
 							"IThundxr"
+						]
+					},
+					{
+						"title": "the quickpilled brown fox",
+						"names": [
+							"Jaevy"
 						]
 					},
 					{
@@ -224,6 +593,12 @@
 						"title": "Liminal decorationist",
 						"names": [
 							"June (Khazoda)"
+						]
+					},
+					{
+						"title": "Prolific anti-termite",
+						"names": [
+							"keyberries"
 						]
 					},
 					{
